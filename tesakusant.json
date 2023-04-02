@@ -16,6 +16,8 @@
       "privacy_policy_url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/wallpaper.html"
     }
   ],
+  
+  
   "ads": [
     {
       "ad_status": 1,
@@ -63,68 +65,425 @@
       "show_open_ad_on_app_resume": true
     }
   ],
+  
+  
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Guide Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+    },
+    {
+      "id": 2,
+      "title": "Stream Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
+    },
+	{
+      "id": 3,
+      "title": "WebView Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
+    }
+  ]
+  
+  
   "categories": [
     {
-      "category_id": 1,
-      "category_name": "Nature",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/nature.jpg"
+      "category_id":78,
+      "category_name":"Ronaldo",
+      "category_image":"https://fsb.zobj.net/crop.php?r=Rjritcblz18G6n7Ersxbm_ehaTEXy3qY9yoqRa4z4H4V5K3EPhbU00L8bejSBCZ6IjXfH-w8ejHwEcx8JBMqnOsKEpplPXAeUSAdXYsznGqIw483ae-v9eviXJD8TDsiiiXpHCexE4ljBibe7E5zHy0a6lyS7teQCOQYG823tUyyC0v5EM6kMs1r3Bzyd_tq7zQS2t_HsznInmLH"
     },
     {
-      "category_id": 2,
-      "category_name": "Sunset",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/sunset.jpg"
+      "category_id":77,
+      "category_name":"Messi",
+      "category_image":"https://pbs.twimg.com/media/EYzPF4MXgAIzS6S?format=jpg"
     },
     {
-      "category_id": 3,
-      "category_name": "Animal",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/animal.jpg"
+      "category_id":76,
+      "category_name":"BMW",
+      "category_image":"https://category_images.unsplash.com/photo-1423630875051-79b406782e61?ixcategory_id=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
     },
     {
-      "category_id": 4,
-      "category_name": "Forest",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/forest.jpg"
+      "category_id":75,
+      "category_name":"Mercedes Benz",
+      "category_image":"https://category_images.unsplash.com/photo-1591697346943-f1b705e848d9?ixlib=rb-1.2.1&ixcategory_id=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+    },
+
+    {
+      "category_id":74,
+      "category_name":"Lamborghini",
+      "category_image":"https://category_images.unsplash.com/photo-1507767439269-2c64f107e609?ixcategory_id=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
     },
     {
-      "category_id": 5,
-      "category_name": "City",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/city.jpg"
+      "category_id":73,
+      "category_name":"Cars",
+      "category_image":"https://category_images.unsplash.com/photo-1617924997545-b0e0f81a1552?ixcategory_id=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1528&q=80"
     },
     {
-      "category_id": 6,
-      "category_name": "Flower",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/flower.jpg"
+      "category_id":72,
+      "category_name":"Sport Car",
+      "category_image":"https://i.pinimg.com/originals/30/68/e5/3068e552da055785b818e0e2a1bda74a.jpg"
     },
     {
-      "category_id": 7,
-      "category_name": "Live Wallpaper",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/live.jpg"
+      "category_id":71,
+      "category_name":"Motorcycle",
+      "category_image":"https://i.pinimg.com/originals/da/9c/ec/da9cec1c63c4311dc03007d78bb603a6.jpg"
     },
     {
-      "category_id": 8,
-      "category_name": "Beach",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/beach.jpg"
+      "category_id":70,
+      "category_name":"Deep Walls",
+      "category_image":"https://category_images.unsplash.com/photo-1601456713871-996c8765d82c?ixlib=rb-1.2.1&ixcategory_id=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
     },
     {
-      "category_id": 9,
-      "category_name": "House",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/house.jpg"
+      "category_id":69,
+      "category_name":"Dragon Ball",
+      "category_image":"https://i.pinimg.com/originals/6a/5d/c3/6a5dc3ff5fc02173f88e26d54a3f14a1.jpg"
     },
     {
-      "category_id": 10,
-      "category_name": "Space",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/space.jpg"
+      "category_id":68,
+      "category_name":"Anime Boy",
+      "category_image":"https://i.pinimg.com/564x/44/46/d9/4446d9de84affd95f382d62136afc4a0.jpg"
     },
     {
-      "category_id": 11,
-      "category_name": "Mountain",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/mountain.jpg"
+      "category_id":67,
+      "category_name":"Anime Girl",
+      "category_image":"https://pbs.twimg.com/media/EkeSbCsXUAIzK1Z.jpg"
     },
     {
-      "category_id": 12,
-      "category_name": "Road",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/road.jpg"
+      "category_id":66,
+      "category_name":"Hanako Kun",
+      "category_image":"https://i.pinimg.com/564x/65/48/7b/65487b986da53fe7933e7f2df85fb8fc.jpg"
+    },
+    {
+      "category_id":65,
+      "category_name":"Nanatsu",
+      "category_image":"https://i.pinimg.com/564x/10/4f/ea/104feaaf337cda40f3b04e8b50d7b2ef.jpg"
+    },
+    {
+      "category_id":64,
+      "category_name":"Pirate",
+      "category_image":"https://i.pinimg.com/564x/d0/ec/1c/d0ec1c6d5c5adcdbd11f1f4120904491.jpg"
+    },
+    {
+      "category_id":63,
+      "category_name":"Ninja",
+      "category_image":"https://i.pinimg.com/564x/c5/b5/5c/c5b55c277896982ca2530bc8dbdd53b5.jpg"
+    },
+    {
+      "category_id":62,
+      "category_name":"DB",
+      "category_image":"https://i.pinimg.com/564x/8e/1b/9e/8e1b9e370a9e2374de80ba85428c2ec7.jpg"
+    },
+    {
+      "category_id":61,
+      "category_name":"BTS",
+      "category_image":"https://i.pinimg.com/originals/f2/26/d4/f226d4c48ffbb0410938fe6685c6cb55.jpg"
+    },
+    {
+      "category_id":60,
+      "category_name":"Kawaii",
+      "category_image":"https://i.pinimg.com/564x/d0/44/6a/d0446a7314e593afbf43352666068f0a.jpg"
+    },
+    {
+      "category_id":59,
+      "category_name":"Attack on Titan",
+      "category_image":"https://pbs.twimg.com/media/D7Ap-mlVsAIasCz.jpg"
+    },
+    {
+      "category_id":58,
+      "category_name":"Avatar",
+      "category_image":"https://i.pinimg.com/originals/16/f1/39/16f13906486bc5b6b24e7cf6cfdb6a92.jpg"
+    },
+    {
+      "category_id":57,
+      "category_name":"Berserk",
+      "category_image":"https://i.pinimg.com/originals/4f/a2/68/4fa268ec2cb5f558c4512f96b97b15f3.jpg"
+    },
+    {
+      "category_id":56,
+      "category_name":"Black Clover",
+      "category_image":"https://i.pinimg.com/564x/66/fc/94/66fc942e3cafce54175452fc332d5964.jpg"
+    },
+    {
+      "category_id":55,
+      "category_name":"Bleach",
+      "category_image":"https://i.pinimg.com/564x/57/ce/5f/57ce5f3c5d184bcbfb24a97dc79271db.jpg"
+    },
+    {
+      "category_id":54,
+      "category_name":"Blue Exorcist",
+      "category_image":"https://i.pinimg.com/564x/31/69/99/316999a79031c01dd4ed5fc66ec3f4ec.jpg"
+    },
+    {
+      "category_id":53,
+      "category_name":"Bungo Stray Dogs",
+      "category_image":"https://i.pinimg.com/originals/ca/95/b3/ca95b31adce8f290f24651fded43bbac.jpg"
+    },
+    {
+      "category_id":52,
+      "category_name":"Captain Tsubasa",
+      "category_image":"https://pbs.twimg.com/media/EMGDg2BXsAAb7k7.jpg"
+    },
+    {
+      "category_id":51,
+      "category_name":"Clannad",
+      "category_image":"https://i.pinimg.com/originals/9c/3e/6e/9c3e6efcf8435b6f5be48c9dba97b293.jpg"
+    },
+    {
+      "category_id":50,
+      "category_name":"Code Geass",
+      "category_image":"https://i.pinimg.com/736x/1f/98/47/1f98470a74ded870ec9f5efc5e854019.jpg"
+    },
+    {
+      "category_id":49,
+      "category_name":"Cowboy Bebop",
+      "category_image":"https://i.pinimg.com/564x/81/8c/16/818c168a649778aae7a1196d08ef20a7.jpg"
+    },
+    {
+      "category_id":48,
+      "category_name":"Darling in the Franxx",
+      "category_image":"https://i.pinimg.com/originals/51/90/04/519004bacd14f161b3d6d6599d3f81f0.jpg"
+    },
+    {
+      "category_id":47,
+      "category_name":"Date A Live",
+      "category_image":"https://i.pinimg.com/originals/c7/38/27/c73827ac7d7973cdfa39840229280c32.jpg"
+    },
+    {
+      "category_id":46,
+      "category_name":"Death Note",
+      "category_image":"https://i.pinimg.com/564x/2b/fa/8e/2bfa8e0b332c80b70103ce3ebb120283.jpg"
+    },
+    {
+      "category_id":45,
+      "category_name":"Detective Conan",
+      "category_image":"https://i.pinimg.com/640x/8e/d9/d9/8ed9d9e8506257da471fd2718d6e2020.jpg"
+    },
+    {
+      "category_id":44,
+      "category_name":"Digimon Adventure",
+      "category_image":"https://i.pinimg.com/originals/7c/53/92/7c53921a3455b79259f06a4e50cecd74.jpg"
+    },
+    {
+      "category_id":43,
+      "category_name":"Doraemon",
+      "category_image":"https://i.pinimg.com/originals/54/66/e4/5466e4e0fd7215ba19eee83be0feee6f.jpg"
+    },
+    {
+      "category_id":42,
+      "category_name":"Dororo",
+      "category_image":"https://i.pinimg.com/originals/c2/b3/ed/c2b3eda11c2d2ef3baa48a3adf08cafa.jpg"
+    },
+    {
+      "category_id":41,
+      "category_name":"Dr. Stone",
+      "category_image":"https://i.pinimg.com/564x/d5/74/45/d5744580ab5ea0881eaaad2e02bd6755.jpg"
+    },
+    {
+      "category_id":40,
+      "category_name":"Dragon Ball",
+      "category_image":"https://i.pinimg.com/564x/dd/0b/0a/dd0b0a8be56fa38e3d01d333cc0e68d3.jpg"
+    },
+    {
+      "category_id":39,
+      "category_name":"Erased",
+      "category_image":"https://pbs.twimg.com/media/D0pWh2vXQAABr1f.jpg"
+    },
+    {
+      "category_id":38,
+      "category_name":"Evangelion",
+      "category_image":"https://i.pinimg.com/564x/cb/ab/3a/cbab3ad20c8d04de5d6f992f2f64eae7.jpg"
+    },
+    {
+      "category_id":37,
+      "category_name":"Fairy Tail",
+      "category_image":"https://i.pinimg.com/originals/cd/9a/51/cd9a511e69e3b4f9e7b1f46b229f7743.jpg"
+    },
+    {
+      "category_id":36,
+      "category_name":"Fate Series",
+      "category_image":"https://i.pinimg.com/originals/e0/83/0c/e0830cc263bee911ae1b7e3797c0d4ce.jpg"
+    },
+    {
+      "category_id":35,
+      "category_name":"Fire Force",
+      "category_image":"https://i.pinimg.com/736x/9f/51/69/9f51697350fe56be690c24af4c90e08c.jpg"
+    },
+    {
+      "category_id":34,
+      "category_name":"Fist of the North Star",
+      "category_image":"https://i.pinimg.com/originals/92/5e/fa/925efa4076f1ce1e979a1c80e9b91739.jpg"
+    },
+    {
+      "category_id":33,
+      "category_name":"Gintama",
+      "category_image":"https://i.pinimg.com/564x/d3/2c/c9/d32cc9052c89391445b841bf7dacf0cb.jpg"
+    },
+    {
+      "category_id":32,
+      "category_name":"Gundam",
+      "category_image":"https://i.pinimg.com/originals/3f/39/79/3f39798f4b73bf9c0c4a8e523fe866af.jpg"
+    },
+    {
+      "category_id":31,
+      "category_name":"Haikyu!!",
+      "category_image":"https://i.pinimg.com/originals/38/c8/c3/38c8c3acd3ac2cc83cadd10fdf186fff.jpg"
+    },
+    {
+      "category_id":30,
+      "category_name":"Hanako-kun",
+      "category_image":"https://i.pinimg.com/originals/9c/78/c2/9c78c2939b85a95db8e24125b3c3988e.jpg"
+    },
+    {
+      "category_id":29,
+      "category_name":"Hunter x Hunter",
+      "category_image":"https://i.pinimg.com/originals/fa/1a/15/fa1a156bf763e35a122cf88aa8ec7e98.jpg"
+    },
+    {
+      "category_id":28,
+      "category_name":"Inazuma Eleven",
+      "category_image":"https://i.pinimg.com/originals/bd/84/10/bd8410ee89b0c8832e652cd4afae2539.jpg"
+    },
+    {
+      "category_id":27,
+      "category_name":"Inuyasha",
+      "category_image":"https://i.pinimg.com/564x/31/ed/e6/31ede69345002096a5ce86cc21780ec3.jpg"
+    },
+    {
+      "category_id":26,
+      "category_name":"JoJo's Bizarre Adventure",
+      "category_image":"https://i.pinimg.com/564x/16/dc/69/16dc6964c264cdbe4310fb81b62cb444.jpg"
+    },
+    {
+      "category_id":25,
+      "category_name":"kimetsu no yaiba",
+      "category_image":"https://i.pinimg.com/564x/f3/da/31/f3da31a93739843cc68202c433fd4d56.jpg"
+    },
+    {
+      "category_id":24,
+      "category_name":"Koutetsujou no Kabaneri",
+      "category_image":"https://i.pinimg.com/originals/b2/f1/ee/b2f1ee67eca2166b0d60a955055fa20f.jpg"
+    },
+    {
+      "category_id":23,
+      "category_name":"Kuroko no Basket",
+      "category_image":"https://i.pinimg.com/564x/0a/f1/42/0af14246e69a913c720135282de48540.jpg"
+    },
+    {
+      "category_id":22,
+      "category_name":"My Hero Academia",
+      "category_image":"https://i.pinimg.com/originals/bb/93/ef/bb93ef6d7f291caafc8ea4012d8fb15a.jpg"
+    },
+    {
+      "category_id":21,
+      "category_name":"Naruto - Boruto",
+      "category_image":"https://i.pinimg.com/originals/67/41/97/674197391b8c1f34310ea1a0072a715b.jpg"
+    },
+    {
+      "category_id":20,
+      "category_name":"One Piece",
+      "category_image":"https://i.pinimg.com/564x/9d/88/8c/9d888cd5df39685bc16f1d5734335c9e.jpg"
+    },
+    {
+      "category_id":19,
+      "category_name":"One Punch Man",
+      "category_image":"https://pbs.twimg.com/media/ES1zV9AWkAAlIZD.jpg"
+    },
+    {
+      "category_id":18,
+      "category_name":"Pokemon",
+      "category_image":"https://i.pinimg.com/564x/fb/97/1c/fb971c64af4fc9c8df6bce309143abc6.jpg"
+    },
+    {
+      "category_id":17,
+      "category_name":"Princess Mononoke",
+      "category_image":"https://i.pinimg.com/564x/73/35/8c/73358cb74a3c64bfcc66326b66019375.jpg"
+    },
+    {
+      "category_id":16,
+      "category_name":"Reborn!",
+      "category_image":"https://pbs.twimg.com/media/CRO2r7rUkAAzImr.jpg"
+    },
+    {
+      "category_id":15,
+      "category_name":"Re:Zero",
+      "category_image":"https://i.pinimg.com/564x/4b/00/3d/4b003d492c9ce91ba5b4e004d8d088e0.jpg"
+    },
+    {
+      "category_id":14,
+      "category_name":"Samurai Champloo",
+      "category_image":"https://i.pinimg.com/originals/e5/e2/28/e5e228227da92b1ab6172e7fb9f1224c.jpg"
+    },
+    {
+      "category_id":13,
+      "category_name":"Seven Deadly Sins",
+      "category_image":"https://i.pinimg.com/736x/60/42/63/60426383dca3dc626c6e7c0786cf5d1b.jpg"
+    },
+    {
+      "category_id":12,
+      "category_name":"Shokugeki no Soma",
+      "category_image":"https://i.pinimg.com/originals/41/1d/c8/411dc8b259b606e4f079e652a7e7f5c6.png"
+    },
+    {
+      "category_id":11,
+      "category_name":"Slam Dunk",
+      "category_image":"https://i.pinimg.com/originals/39/11/87/391187450a5c3c71e1e8a72d0d5b6554.jpg"
+    },
+    {
+      "category_id":10,
+      "category_name":"Solo Leveling",
+      "category_image":"https://i.pinimg.com/564x/60/d5/19/60d519e22f2d19b6abb6a0ce00d1652f.jpg"
+    },
+    {
+      "category_id":9,
+      "category_name":"Soul Eater",
+      "category_image":"https://i.pinimg.com/564x/d5/ba/08/d5ba087a171cbc826fc0c24f4a5805bc.jpg"
+    },
+    {
+      "category_id":8,
+      "category_name":"Sword Art Online",
+      "category_image":"https://i.pinimg.com/564x/8b/d9/ca/8bd9ca078c2f9898939f25cb10553081.jpg"
+    },
+    {
+      "category_id":7,
+      "category_name":"The Promised Neverland",
+      "category_image":"https://i.pinimg.com/564x/dd/5b/55/dd5b5550a727a295bfb63e774f11d593.jpg"
+    },
+    {
+      "category_id":6,
+      "category_name":"The Rising of the Shield Hero",
+      "category_image":"https://i.pinimg.com/564x/2c/eb/82/2ceb8206ab19a3fb1740c574aa14fcd6.jpg"
+    },
+    {
+      "category_id":5,
+      "category_name":"Tokyo Ghoul",
+      "category_image":"https://i.pinimg.com/564x/e5/2f/f8/e52ff84b9b7a4db14dc9161f93fbd5d9.jpg"
+    },
+    {
+      "category_id":4,
+      "category_name":"Toriko",
+      "category_image":"https://i.pinimg.com/originals/58/01/2b/58012ba8051d0a1ec089963dbc7f6b18.jpg"
+    },
+    {
+      "category_id":3,
+      "category_name":"Totoro",
+      "category_image":"https://i.pinimg.com/564x/9a/f5/d1/9af5d1a78a4fd6dc7ea823fa62e32a60.jpg"
+    },
+    {
+      "category_id":2,
+      "category_name":"Vinland Saga",
+      "category_image":"https://i.pinimg.com/originals/e0/c3/b5/e0c3b5af6fc59041071f711b13ac1ccd.jpg"
+    },
+    {
+      "category_id":1,
+      "category_name":"Violet Evergarden",
+      "category_image":"https://i.pinimg.com/564x/50/13/40/50134052bda03c04908bab74c81e694e.jpg"
     }
   ],
+  
+  
   "wallpapers": [
     {
       "wallpaper_id": 1,
@@ -518,25 +877,6 @@
       "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail/live5.jpg",
       "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/live5.mp4"
     }
-  ],
-  "more_apps": [
-    {
-      "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
-    },
-    {
-      "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
-    },
-	{
-      "id": 3,
-      "title": "WebView Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
-    }
   ]
+  
 }

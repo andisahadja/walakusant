@@ -16,8 +16,8 @@
       "privacy_policy_url": "https://raw.githubusercontent.com/andisahadja/privacy/main/privacy_policy.html"
     }
   ],
-  
-  
+
+
   "ads": [
     {
       "ad_status": 1,
@@ -57,8 +57,8 @@
       "ironsource_app_key": "85460dcd",
       "ironsource_banner_id": "DefaultBanner",
       "ironsource_interstitial_id": "DefaultInterstitial",
-	  
-	  "wortise_app_id": "test-app-id",
+
+      "wortise_app_id": "test-app-id",
       "wortise_banner_id": "test-banner",
       "wortise_interstitial_id": "test-interstitial",
       "wortise_native_id": "test-native",
@@ -87,24 +87,36 @@
       "show_open_ad_on_app_resume": true
     }
   ],
-  
-  
+
+
   "more_apps": [
     {
-      "id": 2,
-      "title": "Ronaldo Wallpaper HD",
-      "image": "https://github.com/andisahadja/more/raw/main/ronaldo.png",
-      "url": "https://play.google.com/store/apps/details?id=id.akusantri.ronaldowallpaperhd"
+      "id": 4,
+      "title": "Khutbah Jumat Setahun",
+      "image": "https://play-lh.googleusercontent.com/uiIeXidTmJgo91YmR8uP23HjV-3-yYX6f5vNF-Bj9rm1jm1i-_PWy6rIyFxJbnuNWQ=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=id.akusantri.khutbahjumatsetahun"
     },
-	{
+    {
+      "id": 3,
+      "title": "Alisson Becker Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/gbQOv4iMc0R0I0sXJtBNq55Wnnx77i9ZJBDC4SixTu7YNJyFUD6gO1vFADybXEuMY0E2=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=id.akusantri.beckerwallpaperhd"
+    },
+    {
+      "id": 2,
+      "title": "Eden Hazard Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/sn5Y_2y5ZeQBmBmrfF5dLfgpxexRYLLxkeDG5nPdRnkWWxUHBwCqMEYNApAjaV62hkM=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=id.akusantri.hazardwallpaperhd"
+    },
+    {
       "id": 1,
       "title": "Cars Wallpaper HD",
       "image": "https://github.com/andisahadja/more/raw/main/bmw.png",
       "url": "https://play.google.com/store/apps/details?id=id.akusantri.bmwwallpaperhd"
     }
   ],
-  
-  
+
+
   "categories": [
     {
       "category_id":78,
@@ -498,8 +510,8 @@
       "category_image":"https://i.pinimg.com/564x/50/13/40/50134052bda03c04908bab74c81e694e.jpg"
     }
   ],
-  
-  
+
+
   "wallpapers": [
     {
       "wallpaper_id":"226",
@@ -6067,7 +6079,7 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/45/54/eb/4554ebd00fb5af14683584a368ba79b0.mp4"
     },
-  {
+    {
       "wallpaper_id": 165,
       "category_name": "Anime Live",
       "wallpaper_name": "Anime Live 165",
@@ -6172,7 +6184,7 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/21/76/df/2176dff0fa9a960eb682aefb0e637587.mp4"
     },
-  {
+    {
       "wallpaper_id": 150,
       "category_name": "Anime Live",
       "wallpaper_name": "Anime Live 150",
@@ -6277,7 +6289,7 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/9d/71/97/9d7197256d7751a23f2ffedf767d83d4.mp4"
     },
-  {
+    {
       "wallpaper_id": 135,
       "category_name": "Anime Live",
       "wallpaper_name": "Anime Live 135",
@@ -6382,7 +6394,7 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/ef/40/00/ef4000ff0831c8cb7b67f46fa7238be0.mp4"
     },
-  {
+    {
       "wallpaper_id": 120,
       "category_name": "Anime Live",
       "wallpaper_name": "Anime Live 120",
@@ -6487,7 +6499,7 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/ed/b7/ce/edb7ce3a645288390d03a881b7225991.mp4"
     },
-  {
+    {
       "wallpaper_id": 105,
       "category_name": "Anime Live",
       "wallpaper_name": "Anime Live 105",
@@ -6697,7 +6709,7 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/20/ee/2c/20ee2cbd903f6cf48cf9c3d203de61d3.mp4"
     },
-  {
+    {
       "wallpaper_id": 75,
       "category_name": "Anime Live",
       "wallpaper_name": "Anime Live 75",
@@ -6802,7 +6814,7 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/c5/c9/91/c5c99137ccebf1656f840d4547aa845b.mp4"
     },
-  {
+    {
       "wallpaper_id": 60,
       "category_name": "Anime Live",
       "wallpaper_name": "Anime Live 60",
@@ -6907,7 +6919,7 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/0a/69/e8/0a69e88ed7aa26eea41c3ccf96ee31e1.mp4"
     },
-  {
+    {
       "wallpaper_id": 45,
       "category_name": "Anime Live",
       "wallpaper_name": "Anime Live 45",
@@ -7012,7 +7024,7 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/e0/2b/b1/e02bb1718ef989e432ae88b9263dbc87.mp4"
     },
-  {
+    {
       "wallpaper_id": 30,
       "category_name": "Anime Live",
       "wallpaper_name": "Anime Live 30",
@@ -7117,7 +7129,7 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/07/9e/c0/079ec0ce56e757a9e0fcd14b59642067.mp4"
     },
-  {
+    {
       "wallpaper_id": 15,
       "category_name": "Anime Live",
       "wallpaper_name": "Anime Live 15",
@@ -63784,5 +63796,4 @@
       "category_name":"Kawaii"
     }
   ]
-  
 }

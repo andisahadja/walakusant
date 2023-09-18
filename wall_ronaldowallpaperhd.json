@@ -91,6 +91,18 @@
 
   "more_apps": [
     {
+      "id": 6,
+      "title": "How to Draw Dresses",
+      "image": "https://play-lh.googleusercontent.com/TfF-1CJRiDQc-yDWuLy0idz141jTiSPWm6vgfBQgMlmFICBz0sYApYxda3DUdkMA66M=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=id.akusantri.howtodrawdresses"
+    },
+    {
+      "id": 5,
+      "title": "Art Drawing Ideas",
+      "image": "https://play-lh.googleusercontent.com/JfELsgu_HNJbybslHff5FqAN_gIIFZlBrY-5g6FkU1_mE7gf9-QdhpLlzVU1I3jcePc=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=id.akusantri.artdrawingideas"
+    },
+    {
       "id": 4,
       "title": "Khutbah Jumat Setahun",
       "image": "https://play-lh.googleusercontent.com/uiIeXidTmJgo91YmR8uP23HjV-3-yYX6f5vNF-Bj9rm1jm1i-_PWy6rIyFxJbnuNWQ=w240-h480",

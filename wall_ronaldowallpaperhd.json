@@ -68,8 +68,8 @@
 
       "native_ad_index_grid2": 6,
       "native_ad_index_grid3": 12,
-      "native_ad_interval_grid2": 10,
-      "native_ad_interval_grid3": 12,
+      "native_ad_interval_grid2": 11,
+      "native_ad_interval_grid3": 13,
       "native_ad_style": "large",
 
       "show_banner_ad_home": true,

@@ -22,8 +22,8 @@
     {
       "ad_status": 1,
 
-      "main_ad": "none",
-      "backup_ad": "none",
+      "main_ad": "admob",
+      "backup_ad": "applovin_discovery",
 
       "admob_banner_unit_id": "ca-app-pub-4032018959181535/4173038989",
       "admob_interstitial_unit_id": "ca-app-pub-4032018959181535/1546875646",

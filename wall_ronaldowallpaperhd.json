@@ -67,9 +67,9 @@
       "interstitial_ad_interval": 3,
 
       "native_ad_index_grid2": 6,
-      "native_ad_index_grid3": 9,
-      "native_ad_interval_grid2": 21,
-      "native_ad_interval_grid3": 25,
+      "native_ad_index_grid3": 12,
+      "native_ad_interval_grid2": 10,
+      "native_ad_interval_grid3": 12,
       "native_ad_style": "large",
 
       "show_banner_ad_home": true,

@@ -5,7 +5,7 @@
       "featured_categories": "Ronaldo,Messi,Anime Live,BMW,Mercedes Benz,Anime Girl, Anime Boy",
       "show_wallpaper_name": true,
       "show_wallpaper_category": false,
-      "show_favorite_button_in_wallpaper_list": true,
+      "show_favorite_button_in_wallpaper_list": false,
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
       "enable_vpn_access": false,

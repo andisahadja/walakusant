@@ -130,17 +130,17 @@
 
 
   "categories": [
-  {
+    {
       "category_id":80,
       "category_name":"Soccers",
       "category_image":"https://i.pinimg.com/originals/ba/6d/88/ba6d88735ac860a36d8713f5b193bce0.jpg"
     },
-	{
+    {
       "category_id":79,
       "category_name":"Messi",
       "category_image":"https://i.pinimg.com/564x/31/bb/36/31bb36e7e4678d27856bcd4a10cfc8db.jpg"
     },
-	{
+    {
       "category_id":78,
       "category_name":"Ronaldo",
       "category_image":"https://fsb.zobj.net/crop.php?r=h1SxlvoVHzfZhMa88Vr0Yi1S4cpKGrLfG5Xl-QxXb_PYOJU8V7to-EqDDeYAYasa5YOC2stqo_20Unl2pfPlouLK3Y68n55uBb2WsXFuxecY7mP7QrOGLT09t1vleNJUPvuZ5eRw4zAsFUGwuvfuuqIrgpVGjDcSSWzJRBhK4qZG6Iv0W6z8GtVJJE8lt-Hqa9dFxoZSUukCO-lW"
@@ -160,7 +160,6 @@
       "category_name":"Mercedes Benz",
       "category_image":"https://images.unsplash.com/photo-1591697346943-f1b705e848d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
     },
-
     {
       "category_id":74,
       "category_name":"Lamborghini",
@@ -535,209 +534,243 @@
 
 
   "wallpapers": [
-  {
-      "id": 34,
-      "title": "Soccers 34",
-      "image": "https://i.pinimg.com/originals/8a/9e/ec/8a9eec4c4ff6afb609567a0d463c126e.jpg",
-      "name_category":"Soccers"
+    {
+      "wallpaper_id": 34,
+      "wallpaper_name": "Soccers 34",
+      "wallpaper_url": "https://i.pinimg.com/originals/8a/9e/ec/8a9eec4c4ff6afb609567a0d463c126e.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 33,
-      "title": "Soccers 33",
-      "image": "https://i.pinimg.com/originals/ee/6f/d3/ee6fd33fa8a99584b31ee56d396d3472.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 33,
+      "wallpaper_name": "Soccers 33",
+      "wallpaper_url": "https://i.pinimg.com/originals/ee/6f/d3/ee6fd33fa8a99584b31ee56d396d3472.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 32,
-      "title": "Soccers 32",
-      "image": "https://i.pinimg.com/originals/a8/95/59/a895598f3ca6ab015feb73eb3952e3da.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 32,
+      "wallpaper_name": "Soccers 32",
+      "wallpaper_url": "https://i.pinimg.com/originals/a8/95/59/a895598f3ca6ab015feb73eb3952e3da.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 31,
-      "title": "Soccers 31",
-      "image": "https://i.pinimg.com/originals/58/47/59/584759c091faaf0343d1ab91880d6df2.jpg",
-      "name_category":"Soccers"
-    },
-  {
-      "id": 30,
-      "title": "Soccers 30",
-      "image": "https://i.pinimg.com/originals/88/88/99/888899cabd8f864f677b78a9dfec69e0.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 31,
+      "wallpaper_name": "Soccers 31",
+      "wallpaper_url": "https://i.pinimg.com/originals/58/47/59/584759c091faaf0343d1ab91880d6df2.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 29,
-      "title": "Soccers 29",
-      "image": "https://i.pinimg.com/originals/61/69/ae/6169ae49b775d88448df1464a21a94eb.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 30,
+      "wallpaper_name": "Soccers 30",
+      "wallpaper_url": "https://i.pinimg.com/originals/88/88/99/888899cabd8f864f677b78a9dfec69e0.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 28,
-      "title": "Soccers 28",
-      "image": "https://i.pinimg.com/originals/ba/6d/88/ba6d88735ac860a36d8713f5b193bce0.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 29,
+      "wallpaper_name": "Soccers 29",
+      "wallpaper_url": "https://i.pinimg.com/originals/61/69/ae/6169ae49b775d88448df1464a21a94eb.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 27,
-      "title": "Soccers 27",
-      "image": "https://i.pinimg.com/originals/8e/af/d9/8eafd98f2cb6536a4b3c8750ac140afb.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 28,
+      "wallpaper_name": "Soccers 28",
+      "wallpaper_url": "https://i.pinimg.com/originals/ba/6d/88/ba6d88735ac860a36d8713f5b193bce0.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 26,
-      "title": "Soccers 26",
-      "image": "https://i.pinimg.com/originals/64/f8/cf/64f8cff11e2ef525d2e438ccbbae6543.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 27,
+      "wallpaper_name": "Soccers 27",
+      "wallpaper_url": "https://i.pinimg.com/originals/8e/af/d9/8eafd98f2cb6536a4b3c8750ac140afb.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 25,
-      "title": "Soccers 25",
-      "image": "https://i.pinimg.com/originals/85/4f/f8/854ff8bb4562a38b16c4f125372b1208.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 26,
+      "wallpaper_name": "Soccers 26",
+      "wallpaper_url": "https://i.pinimg.com/originals/64/f8/cf/64f8cff11e2ef525d2e438ccbbae6543.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 24,
-      "title": "Soccers 24",
-      "image": "https://i.pinimg.com/originals/eb/37/27/eb3727774e269efaad8618df56704504.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 25,
+      "wallpaper_name": "Soccers 25",
+      "wallpaper_url": "https://i.pinimg.com/originals/85/4f/f8/854ff8bb4562a38b16c4f125372b1208.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 23,
-      "title": "Soccers 23",
-      "image": "https://i.pinimg.com/originals/1b/2a/32/1b2a32af40391e701dde6f7a7b583a8d.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 24,
+      "wallpaper_name": "Soccers 24",
+      "wallpaper_url": "https://i.pinimg.com/originals/eb/37/27/eb3727774e269efaad8618df56704504.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 22,
-      "title": "Soccers 22",
-      "image": "https://i.pinimg.com/originals/b7/18/2f/b7182f77f13902730f46a7c1893028ee.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 23,
+      "wallpaper_name": "Soccers 23",
+      "wallpaper_url": "https://i.pinimg.com/originals/1b/2a/32/1b2a32af40391e701dde6f7a7b583a8d.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 21,
-      "title": "Soccers 21",
-      "image": "https://i.pinimg.com/originals/a2/4f/df/a24fdfc6658e872bc9fb6ad126c74bd1.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 22,
+      "wallpaper_name": "Soccers 22",
+      "wallpaper_url": "https://i.pinimg.com/originals/b7/18/2f/b7182f77f13902730f46a7c1893028ee.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 20,
-      "title": "Soccers 20",
-      "image": "https://i.pinimg.com/originals/5d/78/63/5d7863e5abb918932da3a2d16eec0576.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 21,
+      "wallpaper_name": "Soccers 21",
+      "wallpaper_url": "https://i.pinimg.com/originals/a2/4f/df/a24fdfc6658e872bc9fb6ad126c74bd1.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 19,
-      "title": "Soccers 19",
-      "image": "https://i.pinimg.com/originals/a4/de/7d/a4de7d1f6524a42e4682c5d8dd1cfef9.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 20,
+      "wallpaper_name": "Soccers 20",
+      "wallpaper_url": "https://i.pinimg.com/originals/5d/78/63/5d7863e5abb918932da3a2d16eec0576.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 18,
-      "title": "Soccers 18",
-      "image": "https://i.pinimg.com/originals/fd/02/76/fd0276e74b903b80268b70973e5954da.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 19,
+      "wallpaper_name": "Soccers 19",
+      "wallpaper_url": "https://i.pinimg.com/originals/a4/de/7d/a4de7d1f6524a42e4682c5d8dd1cfef9.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 17,
-      "title": "Soccers 17",
-      "image": "https://i.pinimg.com/originals/03/47/2e/03472ea378e7870d57f644f37940f694.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 18,
+      "wallpaper_name": "Soccers 18",
+      "wallpaper_url": "https://i.pinimg.com/originals/fd/02/76/fd0276e74b903b80268b70973e5954da.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 16,
-      "title": "Soccers 16",
-      "image": "https://i.pinimg.com/originals/27/1d/28/271d28df5eba4921a7e39e6546f60ff8.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 17,
+      "wallpaper_name": "Soccers 17",
+      "wallpaper_url": "https://i.pinimg.com/originals/03/47/2e/03472ea378e7870d57f644f37940f694.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 15,
-      "title": "Soccers 15",
-      "image": "https://i.pinimg.com/originals/41/c9/9f/41c99fbdfd460b4d2a9aed9d06f85355.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 16,
+      "wallpaper_name": "Soccers 16",
+      "wallpaper_url": "https://i.pinimg.com/originals/27/1d/28/271d28df5eba4921a7e39e6546f60ff8.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 14,
-      "title": "Soccers 14",
-      "image": "https://i.pinimg.com/originals/d4/93/73/d493730360ca6f6fb1d2a991fad015e3.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 15,
+      "wallpaper_name": "Soccers 15",
+      "wallpaper_url": "https://i.pinimg.com/originals/41/c9/9f/41c99fbdfd460b4d2a9aed9d06f85355.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 13,
-      "title": "Soccers 13",
-      "image": "https://i.pinimg.com/originals/d9/3c/dc/d93cdc4daf540e3baee787b524fb20f5.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 14,
+      "wallpaper_name": "Soccers 14",
+      "wallpaper_url": "https://i.pinimg.com/originals/d4/93/73/d493730360ca6f6fb1d2a991fad015e3.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 12,
-      "title": "Soccers 12",
-      "image": "https://i.pinimg.com/originals/38/eb/d3/38ebd38e6d4c2dd7a3f1312ccfe2b216.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 13,
+      "wallpaper_name": "Soccers 13",
+      "wallpaper_url": "https://i.pinimg.com/originals/d9/3c/dc/d93cdc4daf540e3baee787b524fb20f5.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 11,
-      "title": "Soccers 11",
-      "image": "https://i.pinimg.com/originals/9d/2b/b3/9d2bb3a841c3b8123ccf02da344a1675.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 12,
+      "wallpaper_name": "Soccers 12",
+      "wallpaper_url": "https://i.pinimg.com/originals/38/eb/d3/38ebd38e6d4c2dd7a3f1312ccfe2b216.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 10,
-      "title": "Soccers 10",
-      "image": "https://i.pinimg.com/originals/d5/5a/46/d55a4620ba1bffadd7ba8dfb44e75e6d.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 11,
+      "wallpaper_name": "Soccers 11",
+      "wallpaper_url": "https://i.pinimg.com/originals/9d/2b/b3/9d2bb3a841c3b8123ccf02da344a1675.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 9,
-      "title": "Soccers 9",
-      "image": "https://i.pinimg.com/originals/4f/39/dc/4f39dcd6e8b2df40e29d33db9ad68e6d.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 10,
+      "wallpaper_name": "Soccers 10",
+      "wallpaper_url": "https://i.pinimg.com/originals/d5/5a/46/d55a4620ba1bffadd7ba8dfb44e75e6d.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 8,
-      "title": "Soccers 8",
-      "image": "https://i.pinimg.com/originals/0d/dd/26/0ddd26adfae5c5ee0fb042458e13e211.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 9,
+      "wallpaper_name": "Soccers 9",
+      "wallpaper_url": "https://i.pinimg.com/originals/4f/39/dc/4f39dcd6e8b2df40e29d33db9ad68e6d.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 7,
-      "title": "Soccers 7",
-      "image": "https://i.pinimg.com/originals/43/0b/14/430b14130baf3da7eb23f73dba887bf7.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 8,
+      "wallpaper_name": "Soccers 8",
+      "wallpaper_url": "https://i.pinimg.com/originals/0d/dd/26/0ddd26adfae5c5ee0fb042458e13e211.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 6,
-      "title": "Soccers 6",
-      "image": "https://i.pinimg.com/originals/a2/ba/8f/a2ba8f80d54d0e9a04852bfffdc2cfb8.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 7,
+      "wallpaper_name": "Soccers 7",
+      "wallpaper_url": "https://i.pinimg.com/originals/43/0b/14/430b14130baf3da7eb23f73dba887bf7.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 5,
-      "title": "Soccers 5",
-      "image": "https://i.pinimg.com/originals/6e/d6/e6/6ed6e68526fdee78f0b1f9a3e1860fb0.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 6,
+      "wallpaper_name": "Soccers 6",
+      "wallpaper_url": "https://i.pinimg.com/originals/a2/ba/8f/a2ba8f80d54d0e9a04852bfffdc2cfb8.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 4,
-      "title": "Soccers 4",
-      "image": "https://i.pinimg.com/originals/d0/e0/60/d0e06034b750ed272354454ec3ef9dc2.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 5,
+      "wallpaper_name": "Soccers 5",
+      "wallpaper_url": "https://i.pinimg.com/originals/6e/d6/e6/6ed6e68526fdee78f0b1f9a3e1860fb0.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 3,
-      "title": "Soccers 3",
-      "image": "https://i.pinimg.com/originals/63/9c/7b/639c7be5f3ebe958d761cb2c614884dc.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 4,
+      "wallpaper_name": "Soccers 4",
+      "wallpaper_url": "https://i.pinimg.com/originals/d0/e0/60/d0e06034b750ed272354454ec3ef9dc2.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 2,
-      "title": "Soccers 2",
-      "image": "https://i.pinimg.com/originals/27/ec/56/27ec5604743a03a63e6f8f842617ac9f.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 3,
+      "wallpaper_name": "Soccers 3",
+      "wallpaper_url": "https://i.pinimg.com/originals/63/9c/7b/639c7be5f3ebe958d761cb2c614884dc.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
-      "id": 1,
-      "title": "Soccers 1",
-      "image": "https://i.pinimg.com/originals/df/a6/e6/dfa6e6ab9e34119e635ee9ae63f75282.jpg",
-      "name_category":"Soccers"
+      "wallpaper_id": 2,
+      "wallpaper_name": "Soccers 2",
+      "wallpaper_url": "https://i.pinimg.com/originals/27/ec/56/27ec5604743a03a63e6f8f842617ac9f.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
+    },
+    {
+      "wallpaper_id": 1,
+      "wallpaper_name": "Soccers 1",
+      "wallpaper_url": "https://i.pinimg.com/originals/df/a6/e6/dfa6e6ab9e34119e635ee9ae63f75282.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Soccers"
     },
     {
       "wallpaper_id": 598,

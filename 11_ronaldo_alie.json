@@ -4,14 +4,14 @@
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
 
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_admob":"ca-app-pub-4032018959181535/8944510470",
       "open_ads_alien":"null",
       "open_ads_max":"3defbb3d30d42620",
 	  
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110x",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_banner": "ca-app-pub-4032018959181535/7193953991",
+      "main_ads_intertitial":"ca-app-pub-4032018959181535/8303855688",
+      "main_ads_natives":"ca-app-pub-4032018959181535/5677692348x",
+      "main_ads_rewards":"ca-app-pub-4032018959181535/7110440504",
       
       "backup_ads_banner":"92b8f52a0cb734c3",
       "backup_ads_intertitial":"3750728687ec63a9",
@@ -615,7 +615,7 @@
       "title":"Ronaldo 229",
       "lock":"false",
       "name_category":"Ronaldo",
-      "image":"https://i.pinimg.com/originals/79/01/8b/79018be4934e6cc1d590be361fe568c4.jpg"
+      "image":"https://i.pinimg.com/originals/01/bd/ba/01bdba24416e07e05d41be7d63796a7f.jpg"
     },
     {
       "id":"228",

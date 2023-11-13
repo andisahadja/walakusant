@@ -500,7 +500,7 @@
       "id": 598,
       "title": "De Ligt",
       "image": "https://pbs.twimg.com/media/D_2W3BFWkAcMvjQ?format=jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "De Ligt"
     },
     {
@@ -528,7 +528,7 @@
       "id": 594,
       "title": "Kane",
       "image": "https://pbs.twimg.com/media/D_2xL6jWwAAm16h?format=jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Kane"
     },
     {
@@ -570,7 +570,7 @@
       "id": 588,
       "title": "De Ligt",
       "image": "https://pbs.twimg.com/media/D_YIn4IUIAAlwUx.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "De Ligt"
     },
     {
@@ -610,8 +610,8 @@
     },
     {
       "id": 582,
-      "title": "De Ligt",
-      "image": "https://pbs.twimg.com/media/D_n8zrZU0AAsTEP.jpg",
+      "title": "Neymar",
+      "image": "https://i.pinimg.com/564x/eb/da/54/ebda548798e240ab9c41c8ab9ba0b7f3.jpg",
       "lock":"false",
       "name_category": "De Ligt"
     },
@@ -619,7 +619,7 @@
       "id": 581,
       "title": "De Jong",
       "image": "https://i.pinimg.com/originals/c0/de/9b/c0de9bd5b5a1101b05b99378b75f4e94.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "De Jong"
     },
     {
@@ -640,7 +640,7 @@
       "id": 578,
       "title": "Piatek",
       "image": "https://pbs.twimg.com/media/D_Dguy9WsAABjX3.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Piatek"
     },
     {
@@ -661,7 +661,7 @@
       "id": 575,
       "title": "C. Ronaldo",
       "image": "https://pbs.twimg.com/media/D2Xd71WWsAEJYjj.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "C. Ronaldo"
     },
     {
@@ -703,7 +703,7 @@
       "id": 569,
       "title": "A. Becker",
       "image": "https://pbs.twimg.com/media/D-9AaEFXYAAsFzk.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "A. Becker"
     },
     {
@@ -752,7 +752,7 @@
       "id": 562,
       "title": "Mohamed Salah",
       "image": "https://pbs.twimg.com/media/D7llK1OU8AEbvH5.jpg:large",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Salah Mohamed"
     },
     {
@@ -773,7 +773,7 @@
       "id": 559,
       "title": "Pique G.",
       "image": "https://i.pinimg.com/originals/4e/94/9a/4e949a9679495efea4172b21ecc01fb8.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Pique G."
     },
     {
@@ -801,7 +801,7 @@
       "id": 555,
       "title": "Messi",
       "image": "https://i.pinimg.com/originals/ee/8d/2f/ee8d2f564db4c3702ce683d638125f18.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Messi"
     },
     {
@@ -843,13 +843,13 @@
       "id": 549,
       "title": "Ozil",
       "image": "https://pbs.twimg.com/media/D00CdDxWsAIXdcC.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Ozil"
     },
     {
       "id": 548,
       "title": "A. Robben",
-      "image": "https://pbs.twimg.com/media/Co7iTWwWEAAy-Hx.jpg",
+      "image": "https://i.pinimg.com/originals/6b/48/18/6b481876e4e587c90b4aed454e99ee36.jpg",
       "lock":"false",
       "name_category": "A. Robben"
     },
@@ -878,7 +878,7 @@
       "id": 544,
       "title": "Messi",
       "image": "https://pbs.twimg.com/media/D25Nb4vWoAAxbG0.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Messi"
     },
     {
@@ -899,7 +899,7 @@
       "id": 541,
       "title": "Van Dijk",
       "image": "https://pbs.twimg.com/media/D1nNmPOWsAAZr3F.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Van Dijk"
     },
     {
@@ -962,20 +962,20 @@
       "id": 532,
       "title": "Torres",
       "image": "https://pbs.twimg.com/media/D9k8N-DWsAAIbFu.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Torres"
     },
     {
       "id": 531,
       "title": "Kagawa",
-      "image": "https://fsa.zobj.net/crop.php?r=RSth4ZNDEevbt2Gb2Sq4GXdv8eq_a17A9ZOGATcgRh3hUituCVxF-XG6YPzW2sVbLyJ4ch6SVBNvHRlYnMlIJrKYKXJwFFglJlRa62AWxo3DRcbKXqPVMcsvUrkcy2Z5x94sBmoDag0n4rCu",
+      "image": "https://i.pinimg.com/originals/a8/ba/e4/a8bae4499f5903d8ecc8dbd64b4071be.jpg",
       "lock":"false",
       "name_category": "Kagawa (é¦™å· çœŸå¸)"
     },
     {
       "id": 530,
       "title": "Mane",
-      "image": "https://pbs.twimg.com/media/Dx7HZAmV4AAYHtH.jpg",
+      "image": "https://i.pinimg.com/originals/7b/4a/fe/7b4afe4d72b99b0b1051b93b4980d4f9.jpg",
       "lock":"false",
       "name_category": "Mane"
     },
@@ -983,7 +983,7 @@
       "id": 529,
       "title": "Ramos",
       "image": "https://pbs.twimg.com/media/D11LK8mX0AE9v5n.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Ramos"
     },
     {
@@ -1011,7 +1011,7 @@
       "id": 525,
       "title": "Pogba",
       "image": "https://pbs.twimg.com/media/D9MG1MOW4AErKE1.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Pogba"
     },
     {
@@ -1074,7 +1074,7 @@
       "id": 516,
       "title": "Kroos",
       "image": "https://pbs.twimg.com/media/DziPwl2W0AYajj9.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Kroos"
     },
     {
@@ -1158,7 +1158,7 @@
       "id": 504,
       "title": "Mohamed Salah",
       "image": "https://i.pinimg.com/564x/a8/e4/53/a8e453e458b41a70aa59358a9a9d378c.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Salah Mohamed"
     },
     {
@@ -1172,7 +1172,7 @@
       "id": 502,
       "title": "Sanchez",
       "image": "https://pbs.twimg.com/media/DUfkaP6WsAIKgEx.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Sanchez"
     },
     {
@@ -1207,7 +1207,7 @@
       "id": 497,
       "title": "Reus",
       "image": "https://pbs.twimg.com/media/DnvAOS8W4AA8KmB.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Reus"
     },
     {
@@ -1249,7 +1249,7 @@
       "id": 491,
       "title": "Henderson",
       "image": "https://pbs.twimg.com/media/D8EMJoGXYAAnUPs.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Henderson"
     },
     {
@@ -1305,7 +1305,7 @@
       "id": 483,
       "title": "Hazard",
       "image": "https://pbs.twimg.com/media/D70ZWBcXsAINDSd.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Hazard"
     },
     {
@@ -1347,7 +1347,7 @@
       "id": 477,
       "title": "Ozil",
       "image": "https://i.pinimg.com/originals/b4/e4/e8/b4e4e8e988169b6462b277e65bebab82.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Ozil"
     },
     {
@@ -1368,7 +1368,7 @@
       "id": 474,
       "title": "Beckham D.",
       "image": "https://pbs.twimg.com/media/D7mLrPFXkAEyMqh.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Beckham D."
     },
     {
@@ -1396,7 +1396,7 @@
       "id": 470,
       "title": "Beckham D.",
       "image": "https://pbs.twimg.com/media/D7k9stYXYAA1DA0.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Beckham D."
     },
     {
@@ -1430,7 +1430,7 @@
     {
       "id": 465,
       "title": "Costa",
-      "image": "https://pbs.twimg.com/media/D6IwgQBXoAEsXOU.jpg",
+      "image": "https://i.pinimg.com/originals/60/cb/b0/60cbb091bcd58601227390d229dc8194.jpg",
       "lock":"false",
       "name_category": "Costa"
     },
@@ -1466,7 +1466,7 @@
       "id": 460,
       "title": "Modric L.",
       "image": "https://pbs.twimg.com/media/D4RQQgZWkAAIgIB.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Modric L."
     },
     {
@@ -1501,7 +1501,7 @@
       "id": 455,
       "title": "De Gea",
       "image": "https://pbs.twimg.com/media/D2MgSDSX0AAWDI4.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "De Gea"
     },
     {
@@ -1529,7 +1529,7 @@
       "id": 451,
       "title": "Mahrez",
       "image": "https://i.pinimg.com/originals/51/c8/88/51c88889fc441e3809481252d8c1da98.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Mahrez"
     },
     {
@@ -1571,7 +1571,7 @@
       "id": 445,
       "title": "Mbappe K.",
       "image": "https://pbs.twimg.com/media/DzPRx9IX0AAyDev.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Mbappe K."
     },
     {
@@ -1592,7 +1592,7 @@
       "id": 442,
       "title": "Dybala",
       "image": "https://i.pinimg.com/originals/84/4d/6f/844d6fb0ef69982d96c734c7cae65003.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Dybala"
     },
     {
@@ -1606,7 +1606,7 @@
       "id": 440,
       "title": "De Jong",
       "image": "https://pbs.twimg.com/media/D6xYzj7XkAATKro.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "De Jong"
     },
     {
@@ -1634,7 +1634,7 @@
       "id": 436,
       "title": "C. Ronaldo",
       "image": "https://pbs.twimg.com/media/D4Hhh3IWAAEkblP.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "C. Ronaldo"
     },
     {
@@ -1704,7 +1704,7 @@
       "id": 426,
       "title": "Suarez",
       "image": "https://pbs.twimg.com/media/D5j8MNjXkAMKk90.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Suarez"
     },
     {
@@ -1739,7 +1739,7 @@
       "id": 421,
       "title": "â€¢â€¢â€¢",
       "image": "https://i.pinimg.com/564x/b7/6b/bb/b76bbb9e69bc40a7ccc40379705fa861.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "z â€¢â€¢â€¢ Other"
     },
     {
@@ -1760,7 +1760,7 @@
       "id": 418,
       "title": "Mohamed Salah",
       "image": "https://i.pinimg.com/564x/96/72/d3/9672d392d223b00da1d5dcf0c785a0fb.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Salah Mohamed"
     },
     {
@@ -1788,13 +1788,13 @@
       "id": 414,
       "title": "Son",
       "image": "https://i.pinimg.com/564x/9f/14/94/9f1494bcbcad7d363e21e23a50baf8fd.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Son (ì†í¥ë¯¼)"
     },
     {
       "id": 413,
       "title": "Griezmann",
-      "image": "https://pm1.narvii.com/6890/728e42b65f8e8db7a17a900ef08d606b24b0b136r1-1080-1920v2_hq.jpg",
+      "image": "https://i.pinimg.com/originals/a2/e1/dd/a2e1dd06ab28b9842de335745e302014.jpg",
       "lock":"false",
       "name_category": "Griezmann"
     },
@@ -1837,7 +1837,7 @@
       "id": 407,
       "title": "Messi",
       "image": "https://pbs.twimg.com/media/D0L2DQIX4AM2ola.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Messi"
     },
     {
@@ -1851,7 +1851,7 @@
       "id": 405,
       "title": "Chicharito",
       "image": "https://pbs.twimg.com/media/DHgEVHHUAAAtASa.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Chicharito"
     },
     {
@@ -1864,7 +1864,7 @@
     {
       "id": 403,
       "title": "Marcelo",
-      "image": "https://fsb.zobj.net/crop.php?r=CCFvj5WIMAmXIy0vJGpDZF1sGMcFWGhemwEV6syCDZiSNZRfAUoLqEnk-nxwan2kgh5eCTNh40oziaUJ5YwhfsX-Uv2CeGWM9PI-ijSvAqQjKq0aOySV0tikOt3MGFroCXDsAh77SnflOD-4",
+      "image": "https://i.pinimg.com/564x/5c/82/a5/5c82a5361391b4adbae478f8464ae8b3.jpg",
       "lock":"false",
       "name_category": "Marcelo"
     },
@@ -1893,7 +1893,7 @@
       "id": 399,
       "title": "Sneijder",
       "image": "https://i.pinimg.com/564x/15/d0/b1/15d0b192b15870ef55eb9bf50a355fa3.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Sneijder"
     },
     {
@@ -1914,7 +1914,7 @@
       "id": 396,
       "title": "Kroos",
       "image": "https://i.pinimg.com/564x/55/b4/52/55b45206925939b48810609aa8c4756b.jpg?b=t",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Kroos"
     },
     {
@@ -1977,7 +1977,7 @@
       "id": 387,
       "title": "Isco",
       "image": "https://i.pinimg.com/564x/5a/34/d0/5a34d094705ff80e6ed719b224120068.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Isco"
     },
     {
@@ -2019,7 +2019,7 @@
       "id": 381,
       "title": "Pogba",
       "image": "https://i.pinimg.com/originals/ee/a2/3e/eea23e12b0af5cb1a931517462394207.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Pogba"
     },
     {
@@ -2033,7 +2033,7 @@
       "id": 379,
       "title": "Lee Seung-woo",
       "image": "https://i.pinimg.com/736x/ab/f2/d7/abf2d718067f0a916696edbf2b1204fd.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Lee Seung-woo (ì´ìŠ¹ìš°)"
     },
     {
@@ -2096,14 +2096,14 @@
       "id": 370,
       "title": "Pique G.",
       "image": "https://i-h2.pinimg.com/564x/43/51/c1/4351c1636551eb02cc503247a8844ef1.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Pique G."
     },
     {
       "id": 369,
       "title": "Schweinsteiger",
       "image": "https://i.pinimg.com/564x/25/7a/1a/257a1a039ea793cb36899f5cc499d52b.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Schweinsteiger"
     },
     {
@@ -2200,7 +2200,7 @@
     {
       "id": 355,
       "title": "Lee kang-in",
-      "image": "https://sortitoutsi.net/uploads/images/XiHayxzYekwa83hqezB7OP12s2ryReXi.jpg",
+      "image": "https://i.pinimg.com/originals/a1/49/3b/a1493b54cf23473cada399de1adaf0c5.jpg",
       "lock":"false",
       "name_category": "Lee kang-in (ì´ê°•ì¸)"
     },
@@ -2257,7 +2257,7 @@
       "id": 347,
       "title": "Isco",
       "image": "https://i-h2.pinimg.com/564x/47/af/c6/47afc6a851b11ea70090d1bcf08caade.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Isco"
     },
     {
@@ -2271,7 +2271,7 @@
       "id": 345,
       "title": "De Jong",
       "image": "https://pbs.twimg.com/media/Dsen60OXQAATTy1.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "De Jong"
     },
     {
@@ -2299,7 +2299,7 @@
       "id": 341,
       "title": "Neuer",
       "image": "https://i-h2.pinimg.com/564x/01/ad/da/01adda66d0cfc60a37cfe881fdf6c7a1.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Neuer"
     },
     {
@@ -2334,7 +2334,7 @@
       "id": 336,
       "title": "De Bruyne",
       "image": "https://i-h2.pinimg.com/564x/cd/03/23/cd032330fd5e7d7decbc7a4de751b61e.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "De Bruyne"
     },
     {
@@ -2355,7 +2355,7 @@
       "id": 333,
       "title": "C. Ronaldo",
       "image": "https://i-h2.pinimg.com/564x/c9/e5/81/c9e581f624115c29197b876c46bea9ed.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "C. Ronaldo"
     },
     {
@@ -2368,7 +2368,7 @@
     {
       "id": 331,
       "title": "Reus",
-      "image": "https://pm1.narvii.com/7077/76e13cbbdcf5b7920dcce2caaec0999e9c5fba09r1-640-960v2_hq.jpg",
+      "image": "https://i.pinimg.com/originals/06/79/bf/0679bf4d1521b2768eb4f435ab7701b5.jpg",
       "lock":"false",
       "name_category": "Reus"
     },
@@ -2397,7 +2397,7 @@
       "id": 327,
       "title": "Gerrard",
       "image": "https://i-h2.pinimg.com/564x/e5/9c/d3/e59cd3a8193fb380f315dfb6f0e588ae.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Gerrard"
     },
     {
@@ -2411,7 +2411,7 @@
       "id": 325,
       "title": "Beckham D.",
       "image": "https://i-h2.pinimg.com/564x/be/cd/99/becd994ef11d3fc69ea435e264c6ea28.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Beckham D."
     },
     {
@@ -2467,7 +2467,7 @@
       "id": 317,
       "title": "Bale",
       "image": "https://i-h2.pinimg.com/564x/80/84/0e/80840ec2f24469f55fd57afd773f5c2d.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Bale"
     },
     {
@@ -2481,7 +2481,7 @@
       "id": 315,
       "title": "De Gea",
       "image": "https://i-h2.pinimg.com/564x/85/3f/5d/853f5dfa7732290b98ee649f00475f89.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "De Gea"
     },
     {
@@ -2516,7 +2516,7 @@
       "id": 310,
       "title": "Hugo L.",
       "image": "https://i-h2.pinimg.com/564x/d4/5e/a0/d45ea0f9ca1aef07224787a37a85fb63.jpg",
-      "lock":"false",
+      "lock":"true",
       "name_category": "Hugo L."
     },
     {

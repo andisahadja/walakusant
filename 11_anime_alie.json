@@ -514,7 +514,7 @@
     {
       "id":1274,
       "title":"1274 Oshi No Ko",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/a7/eb/0b/a7eb0b36b366223754fdb6144938c285.jpg",
       "name_category":"Anime"
     },
@@ -549,7 +549,7 @@
     {
       "id":1269,
       "title":"1269 Chino",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/61/b4/34/61b434819b4fdfaf9e5f966de5a50383.jpg",
       "name_category":"Anime"
     },
@@ -563,7 +563,7 @@
     {
       "id":1267,
       "title":"1267 My Hero Academia",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/61/cb/e4/61cbe493f56c1008c19fba6a989365c3.jpg",
       "name_category":"My Hero Academia"
     },
@@ -619,7 +619,7 @@
     {
       "id":1259,
       "title":"1259 Solo Leveling",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/60/d5/19/60d519e22f2d19b6abb6a0ce00d1652f.jpg",
       "name_category":"Solo Leveling"
     },
@@ -654,7 +654,7 @@
     {
       "id":1254,
       "title":"1254 One Punch Man",
-      "lock":"false",
+      "lock":"true",
       "image":"https://pbs.twimg.com/media/Eh4CvPhU4AEgIJl.jpg",
       "name_category":"One Punch Man"
     },
@@ -668,7 +668,7 @@
     {
       "id":1252,
       "title":"1252 Shokugeki no Soma",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/0d/58/52/0d58524127805dc936e5d915e386fc42.jpg",
       "name_category":"Shokugeki no Soma"
     },
@@ -703,7 +703,7 @@
     {
       "id":1247,
       "title":"1247 Hunter x Hunter",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/b8/b5/99/b8b5999c2d233c072cdb08c6acfab8e8.jpg",
       "name_category":"Hunter x Hunter"
     },
@@ -745,7 +745,7 @@
     {
       "id":1241,
       "title":"1241 Gundam",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/736x/55/59/1f/55591f25e0ea6fe8f615e07c81b9c7da.jpg",
       "name_category":"Gundam"
     },
@@ -760,13 +760,13 @@
       "id":1239,
       "title":"1239 My Hero Academia",
       "lock":"false",
-      "image":"https://pbs.twimg.com/media/DuLgT9qWwAA1fEb.jpg",
+      "image":"https://i.pinimg.com/originals/87/4e/8d/874e8d933f8eb36237a473ce03bab28f.jpg",
       "name_category":"My Hero Academia"
     },
     {
       "id":1238,
       "title":"1238 My Hero Academia",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/27/05/93/270593cb14329d93135f75d902b1fac9.jpg",
       "name_category":"My Hero Academia"
     },
@@ -780,7 +780,7 @@
     {
       "id":1236,
       "title":"1236 Naruto - Boruto",
-      "lock":"false",
+      "lock":"true",
       "image":"https://pbs.twimg.com/media/EPxzE6LUUAAXeAZ.jpg",
       "name_category":"Naruto - Boruto"
     },
@@ -822,7 +822,7 @@
     {
       "id":1230,
       "title":"1230 Fairy Tail",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/7c/6e/aa/7c6eaa9f96670f152d976399ed369dd9.jpg",
       "name_category":"Fairy Tail"
     },
@@ -836,7 +836,7 @@
     {
       "id":1228,
       "title":"1228 Dragon Ball",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/b5/28/af/b528af31a7b7bd41d338b81d44bcbb8c.jpg",
       "name_category":"Dragon Ball"
     },
@@ -934,7 +934,7 @@
     {
       "id":1214,
       "title":"1214 Hunter x Hunter",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/1d/59/e6/1d59e67a28e8fc1ec85a03db2d4dcf1f.jpg",
       "name_category":"Hunter x Hunter"
     },
@@ -955,7 +955,7 @@
     {
       "id":1211,
       "title":"1211 Attack on Titan",
-      "lock":"false",
+      "lock":"true",
       "image":"https://pbs.twimg.com/media/Dv29favX4AAnrQZ.jpg",
       "name_category":"Attack on Titan"
     },
@@ -969,7 +969,7 @@
     {
       "id":1209,
       "title":"1209 Inazuma Eleven",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/4b/0e/d9/4b0ed9f4f6fe6eb774c003384952013c.jpg",
       "name_category":"Inazuma Eleven"
     },
@@ -1025,7 +1025,7 @@
     {
       "id":1201,
       "title":"1201 Fate Series",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/78/5d/c6/785dc62045e95df7274395fb3a1bcb96.jpg",
       "name_category":"Fate Series"
     },
@@ -1060,7 +1060,7 @@
     {
       "id":1196,
       "title":"1196 Detective Conan",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/640x/8e/d9/d9/8ed9d9e8506257da471fd2718d6e2020.jpg",
       "name_category":"Detective Conan"
     },
@@ -1074,7 +1074,7 @@
     {
       "id":1194,
       "title":"1194 Dragon Ball",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/84/ff/aa/84ffaa00088b54b539e5cf2a72f2249c.jpg",
       "name_category":"Dragon Ball"
     },
@@ -1123,7 +1123,7 @@
     {
       "id":1187,
       "title":"1187 Haikyu!!",
-      "lock":"false",
+      "lock":"true",
       "image":"https://pbs.twimg.com/media/EdUZF7HXoAIvuGP.jpg",
       "name_category":"Haikyu!!"
     },
@@ -1151,7 +1151,7 @@
     {
       "id":1183,
       "title":"1183 Fairy Tail",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/c7/b9/2b/c7b92bb26c3294c20d12cfc36bda833e.jpg",
       "name_category":"Fairy Tail"
     },
@@ -1221,7 +1221,7 @@
     {
       "id":1173,
       "title":"1173 One Piece",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/5d/3c/84/5d3c848c4cf0683803a61fb23ab89935.jpg",
       "name_category":"One Piece"
     },
@@ -1263,7 +1263,7 @@
     {
       "id":1167,
       "title":"1167 Hunter x Hunter",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/2c/58/cf/2c58cfc95f9348efa028bd83ea2fc791.jpg",
       "name_category":"Hunter x Hunter"
     },
@@ -1291,7 +1291,7 @@
     {
       "id":1163,
       "title":"1163 One Punch Man",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/95/fe/85/95fe857aa542332018fc63e88e2708d4.jpg",
       "name_category":"One Punch Man"
     },
@@ -1312,7 +1312,7 @@
     {
       "id":1160,
       "title":"1160 Dragon Ball",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/8d/8a/3c/8d8a3c0dfce2988d27473da32e52bd55.jpg",
       "name_category":"Dragon Ball"
     },
@@ -1341,13 +1341,13 @@
       "id":1156,
       "title":"1156 Gundam",
       "lock":"false",
-      "image":"https://pbs.twimg.com/media/CE6VjUZUIAAazKo.jpg",
+      "image":"https://i.pinimg.com/564x/b7/d5/37/b7d53705fa52a598b07257314fff6923.jpg",
       "name_category":"Gundam"
     },
     {
       "id":1155,
       "title":"1155 Digimon Adventure",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/e6/c5/12/e6c5127facc96031fb4c5c09a729e143.jpg",
       "name_category":"Digimon Adventure"
     },
@@ -1368,7 +1368,7 @@
     {
       "id":1152,
       "title":"1152 Fairy Tail",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/03/d8/66/03d866054449f081baf9be4fea0f4941.jpg",
       "name_category":"Fairy Tail"
     },
@@ -1417,7 +1417,7 @@
     {
       "id":1145,
       "title":"1145 Naruto - Boruto",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/74/25/d1/7425d1f26654f63a69b15da527c88212.jpg",
       "name_category":"Naruto - Boruto"
     },
@@ -1445,7 +1445,7 @@
     {
       "id":1141,
       "title":"1141 kimetsu no yaiba",
-      "lock":"false",
+      "lock":"true",
       "image":"https://pbs.twimg.com/media/EFocZPXVUAImW_j.jpg",
       "name_category":"kimetsu no yaiba"
     },
@@ -1466,7 +1466,7 @@
     {
       "id":1138,
       "title":"1138 Attack on Titan",
-      "lock":"false",
+      "lock":"true",
       "image":"https://pbs.twimg.com/media/D7Ap-mlVsAIasCz.jpg",
       "name_category":"Attack on Titan"
     },
@@ -1474,7 +1474,7 @@
       "id":1137,
       "title":"1137 Dororo",
       "lock":"false",
-      "image":"https://pbs.twimg.com/media/ESLx_D2XYAAtfsR.jpg",
+      "image":"https://i.pinimg.com/originals/c0/4c/48/c04c48889ee6f56f26b385a2adc8cc18.jpg",
       "name_category":"Dororo"
     },
     {
@@ -1487,7 +1487,7 @@
     {
       "id":1135,
       "title":"1135 Princess Mononoke",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/d6/ce/43/d6ce43991da7a78bd62a352d081bd202.jpg",
       "name_category":"Princess Mononoke"
     },
@@ -1529,7 +1529,7 @@
     {
       "id":1129,
       "title":"1129 Solo Leveling",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/35/cb/ff/35cbff89d137eb82687393ad29a2a29b.jpg",
       "name_category":"Solo Leveling"
     },
@@ -1564,7 +1564,7 @@
     {
       "id":1124,
       "title":"1124 Dragon Ball",
-      "lock":"false",
+      "lock":"true",
       "image":"https://pbs.twimg.com/media/EU7TSGtUwAMQeb_.jpg",
       "name_category":"Dragon Ball"
     },
@@ -1606,7 +1606,7 @@
     {
       "id":1118,
       "title":"1118 Digimon Adventure",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/53/60/c5/5360c5ada5dd34bb077d955e2ef03aec.jpg",
       "name_category":"Digimon Adventure"
     },
@@ -1641,7 +1641,7 @@
     {
       "id":1113,
       "title":"1113 kimetsu no yaiba",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/e3/4b/5e/e34b5e2d764d54dc7c3c6a8e0efc388c.jpg",
       "name_category":"kimetsu no yaiba"
     },
@@ -1655,7 +1655,7 @@
     {
       "id":1111,
       "title":"1111 Fairy Tail",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/a5/8f/59/a58f5900d4cfd8515e52907dcbc0ccb2.jpg",
       "name_category":"Fairy Tail"
     },
@@ -1669,7 +1669,7 @@
     {
       "id":1109,
       "title":"1109 One Piece",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/91/3e/e5/913ee5c13c629ad7455552067260c6ea.jpg",
       "name_category":"One Piece"
     },
@@ -1690,7 +1690,7 @@
     {
       "id":1106,
       "title":"1106 Attack on Titan",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/a9/c6/44/a9c644c91d7f4a394085bc0950b76a96.jpg",
       "name_category":"Attack on Titan"
     },
@@ -1746,7 +1746,7 @@
     {
       "id":1098,
       "title":"1098 Kuroko no Basket",
-      "lock":"false",
+      "lock":"true",
       "image":"https://pbs.twimg.com/media/C_2taDAVwAA0Ev2.jpg",
       "name_category":"Kuroko no Basket"
     },
@@ -1789,7 +1789,7 @@
       "id":1092,
       "title":"1092 kimetsu no yaiba",
       "lock":"false",
-      "image":"https://pbs.twimg.com/media/EKQXl_iVUAAXMkY.jpg",
+      "image":"https://i.pinimg.com/originals/9e/ed/3b/9eed3b9b0172e41d5cd641ccec75cc78.jpg",
       "name_category":"kimetsu no yaiba"
     },
     {
@@ -1803,7 +1803,7 @@
       "id":1090,
       "title":"1090 Hunter x Hunter",
       "lock":"false",
-      "image":"https://pbs.twimg.com/media/ETOLf9AU4AA70gU.jpg",
+      "image":"https://i.pinimg.com/originals/3e/80/05/3e8005fafdcada8161bab6f04664abc5.jpg",
       "name_category":"Hunter x Hunter"
     },
     {
@@ -1816,7 +1816,7 @@
     {
       "id":1088,
       "title":"1088 Dragon Ball",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/c3/ed/80/c3ed803c699f42a92f9ab094b98a7ce3.jpg",
       "name_category":"Dragon Ball"
     },
@@ -1837,7 +1837,7 @@
     {
       "id":1085,
       "title":"1085 Naruto - Boruto",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/16/91/33/16913308d45970d9ed68be7490f193d4.jpg",
       "name_category":"Naruto - Boruto"
     },
@@ -1865,7 +1865,7 @@
     {
       "id":1081,
       "title":"1081 Samurai Champloo",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/a1/dc/8e/a1dc8e65bcc97cbd8441a64548d42bab.jpg",
       "name_category":"Samurai Champloo"
     },
@@ -1907,7 +1907,7 @@
     {
       "id":1075,
       "title":"1075 Violet Evergarden",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/6a/3f/24/6a3f249e59300970418cbb6329008ae9.jpg",
       "name_category":"Violet Evergarden"
     },
@@ -1928,7 +1928,7 @@
     {
       "id":1072,
       "title":"1072 One Punch Man",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/b7/df/51/b7df510b27dfa929856e1e9edd4c5904.jpg",
       "name_category":"One Punch Man"
     },
@@ -1956,7 +1956,7 @@
     {
       "id":1068,
       "title":"1068 Reborn!",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/17/3e/9b/173e9b0e8f715a628613ff633de17310.jpg",
       "name_category":"Reborn!"
     },
@@ -1991,7 +1991,7 @@
     {
       "id":1063,
       "title":"1063 Naruto - Boruto",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/86/31/4d/86314d91887cc890f5eaafa11b9a814e.jpg",
       "name_category":"Naruto - Boruto"
     },
@@ -2012,7 +2012,7 @@
     {
       "id":1060,
       "title":"1060 Solo Leveling",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/e2/f8/bf/e2f8bf8651c932fa0dbc1fd30e15b5c2.jpg",
       "name_category":"Solo Leveling"
     },
@@ -2061,7 +2061,7 @@
     {
       "id":1053,
       "title":"1053 kimetsu no yaiba",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/736x/b3/d3/f0/b3d3f044f75bbb05d4f00a4492d91c5a.jpg",
       "name_category":"kimetsu no yaiba"
     },
@@ -2124,7 +2124,7 @@
     {
       "id":1044,
       "title":"1044 My Hero Academia",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/4b/4b/f4/4b4bf4d48c0bb928a9f8551861bd7586.jpg",
       "name_category":"My Hero Academia"
     },
@@ -2166,7 +2166,7 @@
     {
       "id":1038,
       "title":"1038 Seven Deadly Sins",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/8d/19/4f/8d194fe7616b4afd0e2357b111fd0638.jpg",
       "name_category":"Seven Deadly Sins"
     },
@@ -2201,7 +2201,7 @@
     {
       "id":1033,
       "title":"1033 Naruto - Boruto",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/7d/b0/8d/7db08d70bd36436e61f9b2ce5e15542c.jpg",
       "name_category":"Naruto - Boruto"
     },
@@ -2229,14 +2229,14 @@
     {
       "id":1029,
       "title":"1029 Koutetsujou no Kabaneri",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/72/f8/08/72f808893f6d814860d9d50fd4683095.jpg",
       "name_category":"Koutetsujou no Kabaneri"
     },
     {
       "id":1028,
       "title":"1028 Koutetsujou no Kabaneri",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/45/39/fa/4539fa361b89432e139cd8deddebf47d.jpg",
       "name_category":"Koutetsujou no Kabaneri"
     },
@@ -2257,7 +2257,7 @@
     {
       "id":1025,
       "title":"1025 Digimon Adventure",
-      "lock":"false",
+      "lock":"true",
       "image":"https://pbs.twimg.com/media/DGqGxM_U0AATxPQ.jpg",
       "name_category":"Digimon Adventure"
     },
@@ -2285,7 +2285,7 @@
     {
       "id":1021,
       "title":"1021 kimetsu no yaiba",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/4d/cb/db/4dcbdba1aafb0bd5294800735c1a8016.jpg",
       "name_category":"kimetsu no yaiba"
     },
@@ -2306,7 +2306,7 @@
     {
       "id":1018,
       "title":"1018 Attack on Titan",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/90/d1/7e/90d17e788de32468e0e694b52f492981.jpg",
       "name_category":"Attack on Titan"
     },
@@ -2376,7 +2376,7 @@
     {
       "id":1008,
       "title":"1008 kimetsu no yaiba",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/564x/ac/5c/b1/ac5cb1311d9c0b209d6882612e674dc0.jpg",
       "name_category":"kimetsu no yaiba"
     },
@@ -2404,7 +2404,7 @@
     {
       "id":1004,
       "title":"1004 Koutetsujou no Kabaneri",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/736x/12/89/df/1289df5462a46517c0eceaa7bd880d2c--iron-concept-art.jpg",
       "name_category":"Koutetsujou no Kabaneri"
     },
@@ -2432,7 +2432,7 @@
     {
       "id":1000,
       "title":"1000 Dragon Ball",
-      "lock":"false",
+      "lock":"true",
       "image":"https://i.pinimg.com/originals/28/44/78/28447845dfb0331a2aefd3f6028f6ba0.jpg",
       "name_category":"Dragon Ball"
     },

@@ -56,40 +56,268 @@
   "More":
   [
     {
-      "id": 6,
-      "title": "How to Draw Dresses",
-      "image": "https://play-lh.googleusercontent.com/TfF-1CJRiDQc-yDWuLy0idz141jTiSPWm6vgfBQgMlmFICBz0sYApYxda3DUdkMA66M=w240-h480",
-      "link": "https://play.google.com/store/apps/details?id=id.akusantri.howtodrawdresses"
-    },
-    {
-      "id": 5,
-      "title": "Art Drawing Ideas",
-      "image": "https://play-lh.googleusercontent.com/JfELsgu_HNJbybslHff5FqAN_gIIFZlBrY-5g6FkU1_mE7gf9-QdhpLlzVU1I3jcePc=w240-h480",
-      "link": "https://play.google.com/store/apps/details?id=id.akusantri.artdrawingideas"
-    },
-    {
-      "id": 4,
+      "id": 44,
       "title": "Khutbah Jumat Setahun",
       "image": "https://play-lh.googleusercontent.com/uiIeXidTmJgo91YmR8uP23HjV-3-yYX6f5vNF-Bj9rm1jm1i-_PWy6rIyFxJbnuNWQ=w240-h480",
       "link": "https://play.google.com/store/apps/details?id=id.akusantri.khutbahjumatsetahun"
     },
     {
-      "id": 3,
-      "title": "Alisson Becker Wallpaper HD",
-      "image": "https://play-lh.googleusercontent.com/gbQOv4iMc0R0I0sXJtBNq55Wnnx77i9ZJBDC4SixTu7YNJyFUD6gO1vFADybXEuMY0E2=w240-h480",
-      "link": "https://play.google.com/store/apps/details?id=id.akusantri.beckerwallpaperhd"
+      "id": 43,
+      "title": "Panduan Sholat Dhuha & Tahajud",
+      "image": "https://play-lh.googleusercontent.com/ixLvmPS6-xq85MWQ7cAzcKlNv7GGe76qxKailuZfZ0L1XjlpzHVn9E52Qiu3iAFStQ=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.sholatdhuha"
     },
     {
-      "id": 2,
+      "id": 42,
+      "title": "Kumpulan Khutbah Jumat",
+      "image": "https://play-lh.googleusercontent.com/wLcVjYUkrH8LelEaMWJlOgkBGpC9eBs0S0ax2x_q9It16-TNqCDHuG73xWW-WGB2Ww=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.kumpulankhutbahjumat"
+    },
+    {
+      "id": 41,
+      "title": "Kumpulan Kisah Sahabat Nabi",
+      "image": "https://play-lh.googleusercontent.com/FBXePKgdCPx3pQQ4H7NrLhcOj-JzN7eXThVRrj8Z3UfcqmYc-Zq2IDQYRHDoYzfJj4s=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.riwayatsahabatnabi"
+    },
+    {
+      "id": 40,
+      "title": "Cute BT21 Wallpaper 4K",
+      "image": "https://play-lh.googleusercontent.com/qN9RnurcHfB3ujMH5MODA6aTFMHPA_70ZYH-I_6v51QIANvihbM3eprla2bzLJCXlIc=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.newwedgesshoes"
+    },
+    {
+      "id": 39,
+      "title": "How to Draw Dresses",
+      "image": "https://play-lh.googleusercontent.com/7dpnASzmsF81YFtJQ_5lECvF15D81A7RBmg7ZORpC4gElQKWgRo0ley79OFgncPkGEk=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.howtodrawdresses"
+    },
+    {
+      "id": 38,
+      "title": "Kumpulan Kultum Ramadhan",
+      "image": "https://play-lh.googleusercontent.com/tIH4zoIRXfetdc-rWao0PwDTqeZSBUdQXa_i3f4JH8tCJbXcYLWm94xVHSQ7DFjnTNU=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.kumpulankultumramadhan"
+    },
+    {
+      "id": 37,
+      "title": "Cute Bear Wallpaper 4K",
+      "image": "https://play-lh.googleusercontent.com/ODj23nV_CXtgP0h_TB5SIoYDpeauDWxaedVYy3aUKJ4SPcWGnZDi4m13hPyqujK7yw=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.minimalisthousedoordesign"
+    },
+    {
+      "id": 36,
+      "title": "Kisah Hikmah Islami",
+      "image": "https://play-lh.googleusercontent.com/FNoZLztFpThw7dRLapsIz80aCboZlnWbE1N307g2ap_-SREc_TPlofRPyqxl4eRgN9dF=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.kisahhikmahislami"
+    },
+    {
+      "id": 35,
+      "title": "Ronaldo Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/7D0IEQZC85XNags7XKkL43uJPgHELj9OzEI5jRUQqtYPErGjNkXjahluwaAQ2g4SjmyE=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.ronaldowallpaperhd"
+    },
+    {
+      "id": 34,
+      "title": "Cartoon Muslimah Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/oVypYmr491V_PfpzOkU5wudoqo3BzvNjdH1YdeNi6QOMNOo3fPFnwnLintJRYKh1nA=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.kartunmuslimahwallpaperhd"
+    },
+    {
+      "id": 33,
+      "title": "Surat Yasin & Tahlil Berwarna",
+      "image": "https://play-lh.googleusercontent.com/jJ-aTqVq17c2LraHJiZrfDmftUgDEAhNCno3bYp9BOPhwiQ4IqDqCKrFoJzuvLbohTY=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.yasinberwarna"
+    },
+    {
+      "id": 32,
+      "title": "Football Wallpaper 4K",
+      "image": "https://play-lh.googleusercontent.com/W-PvF0MTk37qphBkOElBdh_JorcLF1I1hP_ZF2OS_HxYi-ti6hKFZWslLWKZoY-zCmo=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.messiwallpaperhd"
+    },
+    {
+      "id": 31,
+      "title": "Wallpaper Kartun Muslimah HD",
+      "image": "https://play-lh.googleusercontent.com/7Yq4WIY4IyLHq5IcSDAfbxXnmzfq5IYZ6KiPvPKyPuk5_tEHo9FsG1o8LXLPYPnXfoc=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.wallpapermuslimahhd"
+    },
+    {
+      "id": 30,
+      "title": "Calligraphy Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/MatVYAnsbRucDeCOmyQ0NMzKfrkGWhDMcCK-yjF66VtEc0rTEOIVt4y697E1v-yUKok=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.kaligrafiwallpaperhd"
+    },
+    {
+      "id": 29,
+      "title": "Istri Sholehah Dalam Islam",
+      "image": "https://play-lh.googleusercontent.com/3zYny0Hc4tQGrB9_c3I5xRDPG2A6zfjM67KwYI7GAovCmU3kVEJ6pEJ52FB4XQ_6C62S=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.ciriciriistrisholehah"
+    },
+    {
+      "id": 28,
+      "title": "Ide Desain Rumah Minimalis",
+      "image": "https://play-lh.googleusercontent.com/YrnNau92ycb9QwxOGtQ81sJ0hfAnXZ8oS7PpSZR4XUKvizhuLYHSV4e3wRm13yEd5bk=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.minimalisthousedesignmodel"
+    },
+    {
+      "id": 27,
+      "title": "Doa & Dzikir Setelah Sholat",
+      "image": "https://play-lh.googleusercontent.com/DGW1iUFHxa_MYktLaNhB8mCf1veHsw4q-nwA7gpf53nx7DbDipKW5CkiNaRnLsUpVdE=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.dzikirsetelahshalat"
+    },
+    {
+      "id": 26,
       "title": "Eden Hazard Wallpaper HD",
       "image": "https://play-lh.googleusercontent.com/sn5Y_2y5ZeQBmBmrfF5dLfgpxexRYLLxkeDG5nPdRnkWWxUHBwCqMEYNApAjaV62hkM=w240-h480",
       "link": "https://play.google.com/store/apps/details?id=id.akusantri.hazardwallpaperhd"
     },
     {
-      "id": 1,
+      "id": 25,
+      "title": "Alisson Becker Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/gbQOv4iMc0R0I0sXJtBNq55Wnnx77i9ZJBDC4SixTu7YNJyFUD6gO1vFADybXEuMY0E2=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.beckerwallpaperhd"
+    },
+    {
+      "id": 24,
+      "title": "Russia Football Team Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/kv1spND-mFMHPXgmHbH4s739AJ3sA5CUxhvpEXTFCVZPr96zSOL88yT8OIvcjSgCgg=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.russiafootballteamwallpaperhd"
+    },
+    {
+      "id": 23,
+      "title": "Sweden Football Team Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/HUSVX8OVwFJ39wi-2om01ihsEDigD8cUfabTm2s7Gl8PHg-7wiw_h0clL7uDhlq9cak=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.swedenfootballteamwallpaperhd"
+    },
+    {
+      "id": 22,
+      "title": "Uruguay Football Team Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/5zEpaq586xz2DpWeWkeNd5Z5SBp7i4NU_EVBN7xzhgQDcLVwyz_j6WdMfqX__nWGZ3s=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.uruguayfootballteamwallpaperhd"
+    },
+    {
+      "id": 21,
+      "title": "France Football Team Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/SZNRfCsZ873rAavTfJZKvqQbdKCzsAawo43EmyjR1Xy_eM2NOJgBNVx8XzcgX4DsHIic=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.francefootballteamwallpaperhd"
+    },
+    {
+      "id": 20,
       "title": "Cars Wallpaper HD",
       "image": "https://play-lh.googleusercontent.com/Q8qU4a7jxmyBfdXJjCzMPxxWkzIuWmMqkczFwgrmcOzgoVn9oQwYWbwVWlvTeZDIlVZS=w240-h480",
       "link": "https://play.google.com/store/apps/details?id=id.akusantri.bmwwallpaperhd"
+    },
+    {
+      "id": 19,
+      "title": "Spain Football Team Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/oysJmMwKivKqMr-swjUMz3_euDP551pW9Nd0EKg97Rdxb0WhdJZ1CSYFxUBVA4sFJw=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.spainfootballteamwallpaperhd"
+    },
+    {
+      "id": 18,
+      "title": "England Football Team Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/R4wvfrG-n30G50NH-AUZVbbG4QmsyIKFwVthOA-G9SHCsZt11TldjMjWRYBv-e_kR-c=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.englandfootballteamwallpaperhd"
+    },
+    {
+      "id": 17,
+      "title": "Germany Football Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/j4ERUN16o0Qf6DdS6CstieNKAziJl9_BpNZNSpkkc_qz1dowD04w2a3Khwa9aaJ1iA-g=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.germanyfootballteamwallpaperhd"
+    },
+    {
+      "id": 16,
+      "title": "Brazil Football Team Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/snXN8so_WpSzra0aCoxqNJgb9TTxUyX8xGe-BEziUngHoiX2ddEFHrkuPdv_Eraeaw=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.brazilfootballteamwallpaperhd"
+    },
+    {
+      "id": 15,
+      "title": "Belgium Football Team Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/1oe7R4FkZv2ig_lUyalBE4SWA1h8GgiYUpu7bmRMNOSRTXVDGOFRCfiqEhGFi8KC6A=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.belgiumfootballteamwallpaperhd"
+    },
+    {
+      "id": 14,
+      "title": "Croatia Football Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/W3ySgCj-Hi7pgqCQJrfiBjKaDIfRl3Q4PffPX14jS5wKyqRGC51LJinzkHy9onSDU3k=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.croatiafootballteamwallpaperhd"
+    },
+    {
+      "id": 13,
+      "title": "Portugal Football Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/XBaVWlWvp9FpHpG50YOJjx3I67NkWBOO0J4cvl0jqS5Rv4lL8WPfm4VPlNGXUg5Gn-o=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.portugalfootballteamwallpaperhd"
+    },
+    {
+      "id": 12,
+      "title": "Cute Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/4ERskbjUc1qTBsRw6jxMBcLSKIR0pTFlBdSMMJrHJ9Sp1gJxVIaYQaawDmp9rL2RIna-=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.simpleoutfitmens"
+    },
+    {
+      "id": 11,
+      "title": "Anime Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/1UPrdaTIPlwniwz7k5ol5c1ZkaPW0agi48X3TzV7OkKzbJOsObzZhYZ8Wws4QTZNAdHp=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.africanbeads"
+    },
+    {
+      "id": 10,
+      "title": "Wedding Dress Ideas",
+      "image": "https://play-lh.googleusercontent.com/SO129NJWB0J6mJbxi3eINONwOTOm0tqKgC4VJpqdY7xcKNrGgHYZfMY4PAbeMSTQWze2=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.latestweddingdress"
+    },
+    {
+      "id": 9,
+      "title": "How to Draw Realistic Hair",
+      "image": "https://play-lh.googleusercontent.com/xUfad4Mwj20FXl9uU-SX2BXouctXim__kowbHEAdpQMoZZHrQ6HCrkuS7INpjn9VoBNV=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.howtodrawrealistichair"
+    },
+    {
+      "id": 8,
+      "title": "Art Drawing Ideas",
+      "image": "https://play-lh.googleusercontent.com/lUHK6MeC3TK3Ch9G1sOQ4vH8m8K3Z8uvR56hbd0snmSPmcbYFab4GZH_daTmpGJQZgo=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.artdrawingideas"
+    },
+    {
+      "id": 7,
+      "title": "Soccer Wallpapers",
+      "image": "https://play-lh.googleusercontent.com/xuPi3PFk4txCZu40yWY8LkHVSCouhy4rGnUKWGShAUUWqCaLYfYouOxVALoY4RL54SY=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.soccerwallpapers"
+    },
+    {
+      "id": 6,
+      "title": "Men's Hairstyle",
+      "image": "https://play-lh.googleusercontent.com/fpfQQaKXqWtHyVpED4IAnOGcJ35s6gLf3xdkdf1gS7xsaQCkL6fwd2GNzYkaGLFF_1Sb=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.hairstyle"
+    },
+    {
+      "id": 5,
+      "title": "Wallpaper World Cup 4K",
+      "image": "https://play-lh.googleusercontent.com/E1AFGRsxr7G1C8CVnr3HBT4lL8TSWxfRWJXhWZA71yNPNh4PeW1COeOmeXThnLEYQw=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.wallpaperworldcuphd"
+    },
+    {
+      "id": 4,
+      "title": "Surat Yasin dan Terjemahan",
+      "image": "https://play-lh.googleusercontent.com/O2y7Tcr9jzrAOMKus2WwqD_ghSTlvuYU9Zj8SUzx4EchzDVKxSNGbtGufeHiQxMWwsfv=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.suratyasinterjemahan"
+    },
+    {
+      "id": 3,
+      "title": "16 Hari Mahir Bahasa Inggris",
+      "image": "https://play-lh.googleusercontent.com/MKhe2qDRXHvCqgFA6q4hm32CEwdPtLZa8kKXXS4LSwCk2a07IduRtwrbbj7g7f85ihwE=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.mahirbahasainggris"
+    },
+    {
+      "id": 2,
+      "title": "Almatsurat Sughra Audio",
+      "image": "https://play-lh.googleusercontent.com/sOSWFW9V7ics8OBZt545q2Eh4MlLdr_pcy_dMVlSmfZxJrdXMym72oeHKTQSEGufGQ=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.almatsuratsughra"
+    },
+    {
+      "id": 1,
+      "title": "Doa Sehari Hari Muslim",
+      "image": "https://play-lh.googleusercontent.com/YqCQzpI9YyDYdpg_3VOJIWyg3xjljUm3fIB4-C2YhQh6IXmV3h5NPyuKifsO6bj7iQ=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=id.akusantri.doaharianmuslim"
     }
   ],
 

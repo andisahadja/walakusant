@@ -23,7 +23,7 @@
       "on_off_banner_splash": "1",
       "on_off_banner_exit": "1",
 	  
-      "interval_intertitial": "5",
+      "interval_intertitial": "3",
 	  
       "initialize_sdk":"null",
       "initialize_sdk_backup_ads":"null",
@@ -323,7 +323,7 @@
 
   
   "Categories": [
-	{
+    {
       "id":6,
       "name_category":"Beauty Hair",
       "image":"https://i.pinimg.com/originals/d6/79/d0/d679d0fe98b377e2d4b285051f6e6001.jpg"
@@ -333,7 +333,7 @@
       "name_category":"Draw Hair",
       "image":"https://i.pinimg.com/736x/07/dc/bb/07dcbbd34a33b47b3487d1b8e2c2af7d.jpg"
     },
-	{
+    {
       "id":4,
       "name_category":"Drawing",
       "image":"https://i.pinimg.com/originals/78/b9/85/78b985097ea503b84fca0a6bd9022ed6.jpg"
@@ -343,7 +343,7 @@
       "name_category":"Art Drawing",
       "image":"https://i.pinimg.com/originals/1d/47/78/1d4778b1cda732ecb874f8effb6c1c30.jpg"
     },
-	{
+    {
       "id":2,
       "name_category":"Dresses",
       "image":"https://i.pinimg.com/originals/53/38/ce/5338ce2580dfe9329c2b315c2c94b1fd.jpg"
@@ -358,7 +358,7 @@
   
   "Data":
   [
-	{
+    {
       "id":"60",
       "title":"Beauty Hair 60",
       "name_category":"Beauty Hair",
@@ -779,9 +779,9 @@
       "image":"https://i.pinimg.com/736x/66/a5/83/66a583f6cfeb4669153dc63fc2ba2413.jpg"
     },
     
-	
-	
-	{
+
+
+    {
       "id":"260",
       "title":"Draw Hair 260",
       "name_category":"Draw Hair",
@@ -2601,9 +2601,10 @@
       "lock":"false",
       "image":"https://i.pinimg.com/originals/ee/5e/0b/ee5e0b4c7ef40aa040136fca256e31d2.jpg"
     },
-	
-	
-	{
+
+
+
+    {
       "id":"70",
       "title":"Drawing 70",
       "name_category":"Drawing",
@@ -3094,9 +3095,9 @@
       "image":"https://i.pinimg.com/originals/e0/38/83/e03883d321a43a28501e3ec1a51205d7.jpg"
     },
     
-	
-	
-	{
+
+
+    {
       "id":"262",
       "title":"Art Drawing 262",
       "name_category":"Art Drawing",
@@ -3110,7 +3111,7 @@
       "lock":"false",
       "image":"https://i.pinimg.com/originals/e8/c3/cc/e8c3ccaf66bbcc224919ba94b7691cbe.jpg"
     },
-	{
+    {
       "id":"260",
       "title":"Art Drawing 260",
       "name_category":"Art Drawing",
@@ -4930,9 +4931,10 @@
       "lock":"true",
       "image":"https://i.pinimg.com/originals/82/9e/f1/829ef160c54ee71a84abb554c9f5233d.jpg"
     },
-	
-	
-	{
+
+
+
+    {
       "id":"60",
       "title":"Dresses 60",
       "name_category":"Dresses",
@@ -5353,9 +5355,9 @@
       "image":"https://i.pinimg.com/originals/a4/1a/71/a41a71cc235276c8fb09309c8c0ef57b.jpg"
     },
     
-	
-	
-	{
+
+
+    {
       "id":"260",
       "title":"Draw Dresses 260",
       "name_category":"Draw Dresses",

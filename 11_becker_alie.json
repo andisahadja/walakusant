@@ -324,71 +324,81 @@
   
   "Categories": [
     {
+      "id":37,
+      "name_category":"Euro 2024",
+      "image":"https://i.pinimg.com/originals/e2/b8/df/e2b8dfe814928ccb6562f3fe5ca1cf78.jpg"
+    },
+    {
+      "id":36,
+      "name_category":"Copa America",
+      "image":"https://i.pinimg.com/originals/b2/6f/7f/b26f7ff033d3c4ee35955735e2619019.jpg"
+    },
+    {
       "id":35,
       "name_category":"Soccers",
       "image":"https://i.pinimg.com/originals/ba/6d/88/ba6d88735ac860a36d8713f5b193bce0.jpg"
     },
-	{
+    {
       "id":34,
       "name_category":"Becker",
       "image":"https://i.pinimg.com/originals/ac/6e/4f/ac6e4fabc43afff22f9643d7c9cf5f02.jpg"
     },
-	{
+    {
       "id":33,
       "name_category":"Hazard",
       "image":"https://i.pinimg.com/originals/ba/e5/7a/bae57a7422c381f07d68e1af0fb62e9b.jpg"
     },
-	{
+    {
       "id":32,
       "name_category":"Worldcup",
       "image":"https://i.pinimg.com/originals/9f/00/77/9f0077bda00e9e9d2567d098d2b8e777.jpg"
     },
-	{
+    {
       "id":31,
       "name_category":"France",
       "image":"https://i.pinimg.com/originals/18/d1/f8/18d1f87d005899ae8c9f994eeada6634.jpg"
     },
-	{
+    {
       "id":30,
       "name_category":"Portugal",
       "image":"https://i.pinimg.com/originals/a7/51/3e/a7513eeb32ffd8e18be11dbc6dd795ed.jpg"
     },
-	{
+    {
       "id":29,
       "name_category":"Germany",
       "image":"https://i.pinimg.com/originals/62/7c/eb/627ceb1c3d4f0a75deabe6af00dda866.jpg"
     },
-	{
+    {
       "id":28,
       "name_category":"Croatia",
       "image":"https://i.pinimg.com/originals/75/a3/df/75a3df25b5728f1003c57b5a5401155e.jpg"
     },
-	{
+    {
       "id":27,
       "name_category":"Spain",
       "image":"https://i.pinimg.com/originals/ee/04/f6/ee04f637c0585214c9aaea50ebac2a28.jpg"
     },
-	{
+    {
       "id":26,
       "name_category":"Brazil",
       "image":"https://i.pinimg.com/originals/09/f1/d8/09f1d83245d95db1f07fd845c0094da2.jpg"
     },
-	{
+    {
       "id":25,
       "name_category":"Russian",
       "image":"https://i.pinimg.com/originals/0b/19/f3/0b19f32047f762910f511de6f98071f0.jpg"
     },
-	{
+    {
       "id":24,
       "name_category":"Uruguay",
       "image":"https://i.pinimg.com/originals/57/49/4d/57494d7eefad27059c74043333d6f2ec.jpg"
     },
-	{
+    {
       "id":23,
       "name_category":"Sweden",
       "image":"https://i.pinimg.com/564x/b4/fe/a0/b4fea08bc16402a2f7af6c0cb20f742e.jpg"
     },
-	{
+    {
       "id":22,
       "name_category":"Belgium",
       "image":"https://i.pinimg.com/originals/42/4e/7b/424e7b1f4d6b613294b9562a0995d3e9.jpg"
@@ -503,6 +513,314 @@
   
   "Data":
   [
+    {
+      "id": 22,
+      "title": "Euro 2024 22",
+      "image": "https://i.pinimg.com/originals/e2/b8/df/e2b8dfe814928ccb6562f3fe5ca1cf78.jpg",
+      "lock":"false",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 21,
+      "title": "Euro 2024 21",
+      "image": "https://i.pinimg.com/originals/34/72/f8/3472f8efd0c0e99d4c6eb42135d27e19.jpg",
+      "lock":"true",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 20,
+      "title": "Euro 2024 20",
+      "image": "https://i.pinimg.com/originals/e6/93/ba/e693ba6bc14e16eb0f662bec0af5a070.jpg",
+      "lock":"false",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 19,
+      "title": "Euro 2024 19",
+      "image": "https://i.pinimg.com/originals/b1/ee/84/b1ee8477a8727f5c1600f4a78381c557.jpg",
+      "lock":"false",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 18,
+      "title": "Euro 2024 18",
+      "image": "https://i.pinimg.com/originals/96/79/bc/9679bca5e45af64ff53e00519c5817f2.jpg",
+      "lock":"false",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 17,
+      "title": "Euro 2024 17",
+      "image": "https://i.pinimg.com/originals/30/76/57/3076574d3371f789ea7fe220d9662e18.jpg",
+      "lock":"true",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 16,
+      "title": "Euro 2024 16",
+      "image": "https://i.pinimg.com/originals/00/bf/bd/00bfbd1bc71247f28a8ea8af1976416e.jpg",
+      "lock":"false",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 15,
+      "title": "Euro 2024 15",
+      "image": "https://i.pinimg.com/originals/6d/a8/5e/6da85eff36850e2f9775dd0686cf99eb.jpg",
+      "lock":"false",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 14,
+      "title": "Euro 2024 14",
+      "image": "https://i.pinimg.com/originals/3b/19/40/3b194041d4a81de720e6b4d611de91ef.jpg",
+      "lock":"false",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 13,
+      "title": "Euro 2024 13",
+      "image": "https://i.pinimg.com/originals/30/a9/e7/30a9e7b78d5866317d13bd64da4a64bb.jpg",
+      "lock":"false",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 12,
+      "title": "Euro 2024 12",
+      "image": "https://i.pinimg.com/originals/fc/c6/62/fcc6626ec1266441f3b4be96e68bf6d5.jpg",
+      "lock":"true",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 11,
+      "title": "Euro 2024 11",
+      "image": "https://i.pinimg.com/originals/d6/12/e0/d612e054fa7199bfd05443801d407775.jpg",
+      "lock":"false",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 10,
+      "title": "Euro 2024 10",
+      "image": "https://i.pinimg.com/originals/6b/af/88/6baf887132a518e43cdb6fb5e91ec9a9.jpg",
+      "lock":"false",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 9,
+      "title": "Euro 2024 9",
+      "image": "https://i.pinimg.com/originals/ed/38/36/ed38362590f600d04ddedded669bc30f.jpg",
+      "lock":"true",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 8,
+      "title": "Euro 2024 8",
+      "image": "https://i.pinimg.com/736x/67/f7/e0/67f7e03a84e411923c2bbf2ac71fba35.jpg",
+      "lock":"true",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 7,
+      "title": "Euro 2024 7",
+      "image": "https://i.pinimg.com/originals/68/4f/8c/684f8cb38e9610fc4e7bb117898d003a.jpg",
+      "lock":"false",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 6,
+      "title": "Euro 2024 6",
+      "image": "https://i.pinimg.com/originals/d2/ac/3d/d2ac3d5cc2e750be345c2e02bc6cb0b6.jpg",
+      "lock":"true",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 5,
+      "title": "Euro 2024 5",
+      "image": "https://i.pinimg.com/originals/25/1b/90/251b90a63f3fb980101d377ed84c4be9.jpg",
+      "lock":"true",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 4,
+      "title": "Euro 2024 4",
+      "image": "https://i.pinimg.com/originals/36/02/c7/3602c7e02458176e123a2b08dff20a50.jpg",
+      "lock":"false",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 3,
+      "title": "Euro 2024 3",
+      "image": "https://i.pinimg.com/originals/99/01/67/99016733ef2390162edb7d58b3fa97dd.jpg",
+      "lock":"false",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 2,
+      "title": "Euro 2024 2",
+      "image": "https://i.pinimg.com/originals/05/aa/8f/05aa8f4fd93634421e603fc58f53a3e2.jpg",
+      "lock":"false",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 1,
+      "title": "Euro 2024 1",
+      "image": "https://i.pinimg.com/originals/ee/43/21/ee4321f5c94f77de5b34f611e7111429.jpg",
+      "lock":"true",
+      "name_category":"Euro 2024"
+    },
+    {
+      "id": 22,
+      "title": "Copa America 22",
+      "image": "https://i.pinimg.com/originals/f0/95/52/f095521aedbc30828f8c67a8200ed5d3.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 21,
+      "title": "Copa America 21",
+      "image": "https://i.pinimg.com/originals/e6/cc/16/e6cc16456ac2dfb612248be27b4fa892.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 20,
+      "title": "Copa America 20",
+      "image": "https://i.pinimg.com/564x/77/1f/fc/771ffc44af9d28de5dabaa91ed71f1f2.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 19,
+      "title": "Copa America 19",
+      "image": "https://i.pinimg.com/originals/b2/6f/7f/b26f7ff033d3c4ee35955735e2619019.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 18,
+      "title": "Copa America 18",
+      "image": "https://i.pinimg.com/originals/84/5b/f4/845bf47bbb3d3968925302c717f972d5.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 17,
+      "title": "Copa America 17",
+      "image": "https://i.pinimg.com/originals/67/3f/6a/673f6abc21d1f5f5a97ffd031d28ee33.jpg",
+      "lock":"true",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 16,
+      "title": "Copa America 16",
+      "image": "https://mcdn.wallpapersafari.com/medium/43/74/W0twzp.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 15,
+      "title": "Copa America 15",
+      "image": "https://mcdn.wallpapersafari.com/medium/72/31/80prEF.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 14,
+      "title": "Copa America 14",
+      "image": "https://i.pinimg.com/564x/36/22/99/36229929c3067147c7a8f68f1afa490b.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 13,
+      "title": "Copa America 13",
+      "image": "https://i.pinimg.com/originals/79/da/df/79dadf69ff82bc810efd3bfc715deeb5.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 12,
+      "title": "Copa America 12",
+      "image": "https://i.pinimg.com/originals/9a/89/55/9a895539aa97761f51600e1bebe85561.jpg",
+      "lock":"true",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 11,
+      "title": "Copa America 11",
+      "image": "https://i.pinimg.com/originals/d0/42/e6/d042e64be39482f4d5ae566c9e6c0665.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 10,
+      "title": "Copa America 10",
+      "image": "https://i.pinimg.com/originals/a8/4f/1f/a84f1f73b117b8986be20606637275be.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 9,
+      "title": "Copa America 9",
+      "image": "https://i.pinimg.com/originals/ef/f6/0f/eff60f9ae8cf4e62c4de70cd05e5f239.jpg",
+      "lock":"true",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 8,
+      "title": "Copa America 8",
+      "image": "https://i.pinimg.com/originals/42/29/e9/4229e9bace5449c350153a9c7a7ca2b8.jpg",
+      "lock":"true",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 7,
+      "title": "Copa America 7",
+      "image": "https://i.pinimg.com/originals/bd/10/1e/bd101e54ecae90ff51c4f9967c558712.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 6,
+      "title": "Copa America 6",
+      "image": "https://i.pinimg.com/originals/d6/28/9b/d6289b27a19d356b8765ed962c3909f0.jpg",
+      "lock":"true",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 5,
+      "title": "Copa America 5",
+      "image": "https://i.pinimg.com/originals/33/06/d0/3306d08794dc593195aeea441b6b9099.jpg",
+      "lock":"true",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 4,
+      "title": "Copa America 4",
+      "image": "https://i.pinimg.com/originals/24/59/18/245918ff5e8e8404f8e43047b0f500ce.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 3,
+      "title": "Copa America 3",
+      "image": "https://i.pinimg.com/originals/ea/b3/83/eab383972de3c4e1f19bc87255d98a8e.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 2,
+      "title": "Copa America 2",
+      "image": "https://i.pinimg.com/564x/e4/50/a1/e450a1469ac22aa30307295b6bc8e5a8.jpg",
+      "lock":"false",
+      "name_category":"Copa America"
+    },
+    {
+      "id": 1,
+      "title": "Copa America 1",
+      "image": "https://i.pinimg.com/originals/8a/1a/90/8a1a90f5c1e05adefcc0f10353f2ff01.jpg",
+      "lock":"true",
+      "name_category":"Copa America"
+    },
     {
       "id": 96,
       "title": "Becker 96",

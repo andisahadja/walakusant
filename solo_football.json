@@ -24,10 +24,10 @@
       "main_ad": "admob",
       "backup_ad": "applovin_max",
 
-      "admob_banner_unit_id": "ca-app-pub-4032018959181535/7193953991",
-      "admob_interstitial_unit_id": "ca-app-pub-4032018959181535/8303855688",
-      "admob_native_unit_id": "ca-app-pub-4032018959181535/5677692348",
-      "admob_app_open_unit_id": "ca-app-pub-4032018959181535/8944510470",
+      "admob_banner_unit_id": "ca-app-pub-4032018959181535/8396366789",
+      "admob_interstitial_unit_id": "ca-app-pub-4032018959181535/8947525967",
+      "admob_native_unit_id": "ca-app-pub-4032018959181535/3374623321",
+      "admob_app_open_unit_id": "ca-app-pub-4032018959181535/2199424132",
 
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",

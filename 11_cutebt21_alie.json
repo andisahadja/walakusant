@@ -6,17 +6,17 @@
 
       "open_ads_admob":"null",
       "open_ads_alien":"null",
-      "open_ads_max":"c1be66e9a7107032",
+      "open_ads_max":"null",
 	  
       "main_ads_banner": "ca-app-pub-4032018959181535/5691074448",
       "main_ads_intertitial":"ca-app-pub-4032018959181535/6455499383",
       "main_ads_natives":"ca-app-pub-4032018959181535/1359085375x",
       "main_ads_rewards":"ca-app-pub-4032018959181535/9729677056",
       
-      "backup_ads_banner":"134e8bced58e576e",
-      "backup_ads_intertitial":"72670c53478ba4a9",
-      "backup_ads_natives":"684e0e51444d5932",
-      "backup_ads_rewards":"2dddd917c53916d9",
+      "backup_ads_banner":"62d0d88fc7618fa7",
+      "backup_ads_intertitial":"fa95edae3ccb8b18",
+      "backup_ads_natives":"null",
+      "backup_ads_rewards":"3aec6d08db2bf4a9",
       
       "on_off_native_listview": "1",
       "interval_for_native": "12",
